@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AR Education Portal</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+      --ar-blue: #00f0ff;
+      --ar-purple: #8a2be2;
+      --ar-pink: #ff00ff;
+      --ar-green: #00ffaa;
+      --dark-bg: #0a0a12;
+      --card-bg: rgba(20, 20, 30, 0.7);
+      --light-text: #f0f0ff;
+      --glass-border: rgba(255, 255, 255, 0.1);
+      --glow-sm: 0 0 10px currentColor;
+      --glow-md: 0 0 20px currentColor;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    html {
+      font-size: 16px;
+      scroll-behavior: smooth;
+      background: var(--dark-bg);
+    }
+
+    body {
+      font-family: 'Space Grotesk', sans-serif;
+      color: var(--light-text);
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+      background: 
+        radial-gradient(circle at 20% 30%, rgba(0, 240, 255, 0.05) 0%, transparent 25%),
+        radial-gradient(circle at 80% 70%, rgba(138, 43, 226, 0.05) 0%, transparent 25%),
+        linear-gradient(to bottom, var(--dark-bg), #000000);
+      line-height: 1.6;
+    }
+
+    /* Enhanced AR Preloader */
+    .ar-preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: var(--dark-bg);
+      z-index: 9999;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: opacity 1s cubic-bezier(0.65, 0, 0.35, 1);
+    }
+
+    .ar-hologram {
+      width: 150px;
+      height: 150px;
+      position: relative;
+      margin-bottom: 2rem;
+      perspective: 1000px;
+    }
+
+    .hologram-line {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border: 3px solid transparent;
+      border-radius: 50%;
+      animation: hologramOrbit 4s infinite linear;
+      box-shadow: 0 0 15px currentColor;
+    }
+
+    .hologram-line:nth-child(1) {
+      border-top-color: var(--ar-blue);
+      animation-delay: -0.5s;
+      filter: hue-rotate(0deg);
+      animation-duration: 3s;
+    }
+
+    .hologram-line:nth-child(2) {
+      border-right-color: var(--ar-purple);
+      animation-direction: reverse;
+      animation-duration: 4s;
+      filter: hue-rotate(90deg);
+    }
+
+    .hologram-line:nth-child(3) {
+      border-bottom-color: var(--ar-green);
+      animation-duration: 5s;
+      filter: hue-rotate(180deg);
+    }
+
+    .hologram-core {
+      position: absolute;
+      width: 30%;
+      height: 30%;
+      background: radial-gradient(circle, 
+        var(--ar-pink) 10%,
+        rgba(255,0,255,0.2) 70%);
+      border-radius: 50%;
+      left: 35%;
+      top: 35%;
+      animation: corePulse 2s infinite ease-in-out;
+    }
+
+    .hologram-particle {
+      position: absolute;
+      width: 4px;
+      height: 4px;
+      background: var(--ar-blue);
+      border-radius: 50%;
+      animation: particleFloat 3s infinite;
+    }
+
+    .loading-text {
+      position: relative;
+      font-size: 1.2rem;
+      font-weight: 300;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      background: linear-gradient(90deg,
+        var(--ar-blue),
+        var(--ar-purple),
+        var(--ar-pink));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      text-shadow: 0 0 15px rgba(0, 240, 255, 0.3);
+    }
+
+    .loading-text::after {
+      content: '▋';
+      animation: cursorBlink 1s infinite;
+      margin-left: 2px;
+    }
+
+    /* Main Container */
+    .ar-container {
+      display: none;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      position: relative;
+      opacity: 0;
+      animation: fadeIn 1s ease forwards;
+    }
+
+    /* AR Header */
+    .ar-header {
+      text-align: center;
+      margin-bottom: 3rem;
+      position: relative;
+      padding-top: 1rem;
+    }
+
+    .ar-header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100px;
+      height: 3px;
+      background: linear-gradient(to right, var(--ar-blue), var(--ar-purple));
+      border-radius: 3px;
+    }
+
+    .ar-title {
+      font-size: 3.5rem;
+      font-weight: 700;
+      background: linear-gradient(to right, var(--ar-blue), var(--ar-pink));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      margin-bottom: 1rem;
+      letter-spacing: 1px;
+    }
+
+    .ar-subtitle {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 0 auto;
+      opacity: 0.8;
+      font-weight: 300;
+    }
+
+    /* Back Button */
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.8rem 2rem;
+      background: rgba(0, 240, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 50px;
+      color: var(--light-text);
+      text-decoration: none;
+      font-weight: 500;
+      margin-bottom: 3rem;
+      border: 1px solid var(--ar-blue);
+      transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 
+        0 0 15px rgba(0, 240, 255, 0.1),
+        inset 0 0 10px rgba(0, 240, 255, 0.1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .back-btn i {
+      margin-right: 0.8rem;
+      transition: transform 0.3s ease;
+    }
+
+    .back-btn::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(0, 240, 255, 0.2),
+        transparent
+      );
+      transition: 0.6s;
+    }
+
+    .back-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 
+        0 5px 25px rgba(0, 240, 255, 0.3),
+        inset 0 0 15px rgba(0, 240, 255, 0.2);
+    }
+
+    .back-btn:hover i {
+      transform: translateX(-5px);
+    }
+
+    .back-btn:hover::before {
+      left: 100%;
+    }
+
+    /* AR Lessons Grid */
+    .ar-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .ar-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      border: 1px solid var(--glass-border);
+      box-shadow: 
+        0 0 20px rgba(0, 240, 255, 0.1),
+        inset 0 0 10px rgba(0, 240, 255, 0.05);
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .ar-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(0, 240, 255, 0.1),
+        transparent
+      );
+      transition: 0.6s;
+    }
+
+    .ar-card:hover::before {
+      left: 100%;
+    }
+
+    .ar-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 
+        0 10px 30px rgba(0, 240, 255, 0.2),
+        0 0 20px rgba(255, 0, 255, 0.1);
+      border-color: var(--ar-green);
+    }
+
+    .ar-icon {
+      width: 70px;
+      height: 70px;
+      background: rgba(0, 240, 255, 0.1);
+      border-radius: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.5rem;
+      font-size: 1.8rem;
+      color: var(--ar-green);
+      box-shadow: 
+        0 0 15px rgba(0, 255, 170, 0.1),
+        inset 0 0 10px rgba(0, 255, 170, 0.1);
+      transition: all 0.4s ease;
+    }
+
+    .ar-card:hover .ar-icon {
+      transform: rotate(10deg) scale(1.1);
+      color: var(--ar-pink);
+      box-shadow: 
+        0 0 20px rgba(255, 0, 255, 0.2),
+        inset 0 0 15px rgba(255, 0, 255, 0.1);
+    }
+
+    .ar-card-title {
+      font-size: 1.6rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: var(--light-text);
+      position: relative;
+      display: inline-block;
+    }
+
+    .ar-card-title::after {
+      content: '';
+      position: absolute;
+      bottom: -8px;
+      left: 0;
+      width: 50px;
+      height: 2px;
+      background: var(--ar-green);
+      border-radius: 2px;
+      transition: width 0.4s ease;
+    }
+
+    .ar-card:hover .ar-card-title::after {
+      width: 100%;
+      background: var(--ar-pink);
+    }
+
+    .ar-card-desc {
+      font-size: 0.95rem;
+      opacity: 0.8;
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+    }
+
+    .ar-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+
+    .meta-item i {
+      margin-right: 0.5rem;
+      color: var(--ar-blue);
+    }
+
+    .ar-progress {
+      width: 100%;
+      height: 4px;
+      background: rgba(0, 240, 255, 0.1);
+      border-radius: 2px;
+      margin-top: 2rem;
+      overflow: hidden;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(to right, var(--ar-blue), var(--ar-green));
+      border-radius: 2px;
+      width: 0%;
+      transition: width 1s ease;
+      position: relative;
+    }
+
+    .progress-bar::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.3) 50%,
+        rgba(255, 255, 255, 0) 100%
+      );
+      animation: progressShine 2s infinite;
+    }
+
+    /* Empty State */
+    .ar-empty {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 3rem;
+      background: var(--card-bg);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      border: 1px dashed var(--ar-blue);
+      box-shadow: 
+        inset 0 0 20px rgba(0, 240, 255, 0.1),
+        0 0 30px rgba(0, 240, 255, 0.1);
+    }
+
+    .empty-icon {
+      font-size: 3rem;
+      color: var(--ar-blue);
+      margin-bottom: 1.5rem;
+      text-shadow: var(--glow-sm);
+    }
+
+    .empty-title {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      background: linear-gradient(to right, var(--ar-blue), var(--light-text));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    /* Animations */
+    @keyframes hologramOrbit {
+      0% {
+        transform: rotate(0deg) scale(1);
+        opacity: 0.8;
+      }
+      50% {
+        transform: rotate(180deg) scale(1.2);
+        opacity: 1;
+      }
+      100% {
+        transform: rotate(360deg) scale(1);
+        opacity: 0.8;
+      }
+    }
+
+    @keyframes corePulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.3); }
+    }
+
+    @keyframes particleFloat {
+      0% {
+        transform: translateY(0) translateX(0);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(-100px) translateX(50px);
+        opacity: 0;
+      }
+    }
+
+    @keyframes cursorBlink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes progressShine {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+
+    /* Responsive Design */
+    @media (max-width: 992px) {
+      .ar-title {
+        font-size: 3rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .ar-container {
+        padding: 1.5rem;
+      }
+      
+      .ar-title {
+        font-size: 2.5rem;
+      }
+      
+      .ar-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .ar-title {
+        font-size: 2rem;
+      }
+      
+      .ar-card {
+        padding: 1.5rem;
+      }
+      
+      .ar-icon {
+        width: 60px;
+        height: 60px;
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Enhanced AR Preloader -->
+  <div class="ar-preloader" id="arPreloader">
+    <div class="ar-hologram">
+      <div class="hologram-line"></div>
+      <div class="hologram-line"></div>
+      <div class="hologram-line"></div>
+    </div>
+    <div class="loading-text">LOADING AR EDUCATION</div>
+  </div>
+
+  <!-- Main Container -->
+  <div class="ar-container" id="arContainer">
+    <!-- AR Header -->
+    <header class="ar-header">
+      <h1 class="ar-title">AR Education</h1>
+      <p class="ar-subtitle">Immerse yourself in interactive augmented reality learning experiences</p>
+    </header>
+
+    <!-- Back Button -->
+    <a href="{{ url_for('home') }}" class="back-btn">
+      <i class="fas fa-arrow-left"></i> Back to Dashboard
+    </a>
+
+    <!-- AR Lessons Grid -->
+    <div class="ar-grid">
+      {% for lesson in lessons %}
+        <div class="ar-card" onclick="navigateToLesson('{{ lesson.id }}')">
+          <div class="ar-icon">
+            <i class="fas fa-vr-cardboard"></i>
+          </div>
+          <h3 class="ar-card-title">{{ lesson.name }}</h3>
+          <p class="ar-card-desc">
+            {{ lesson.description|default("Interactive AR module combining 3D visualization with hands-on learning", true) }}
+          </p>
+          
+          <div class="ar-meta">
+            <div class="meta-item">
+              <i class="fas fa-layer-group"></i>
+              <span>{{ lesson.videos }} Videos</span>
+            </div>
+          </div>
+          
+          <div class="ar-progress">
+            <div class="progress-bar" style="width: {{ lesson.progress|default(0, true) }}%"></div>
+          </div>
+        </div>
+      {% else %}
+        <div class="ar-empty">
+          <div class="empty-icon">
+            <i class="fas fa-box-open"></i>
+          </div>
+          <h3 class="empty-title">No AR Content Available</h3>
+          <p>Check back soon for new augmented reality learning modules</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <script>
+    // Enhanced AR Initialization
+    document.addEventListener('DOMContentLoaded', () => {
+      const preloader = document.getElementById('arPreloader');
+      const container = document.getElementById('arContainer');
+      const particles = 15;
+
+      // Generate dynamic particles
+      const hologram = document.querySelector('.ar-hologram');
+      for (let i = 0; i < particles; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'hologram-particle';
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.top = Math.random() * 100 + '%';
+        particle.style.animationDelay = Math.random() * 2 + 's';
+        particle.style.animationDuration = 2 + Math.random() * 3 + 's';
+        particle.style.backgroundColor = 
+          `hsl(${Math.random() * 360}, 70%, 60%)`;
+        hologram.appendChild(particle);
+      }
+
+      // Add hologram core
+      const core = document.createElement('div');
+      core.className = 'hologram-core';
+      hologram.appendChild(core);
+
+      // Simulate AR module loading
+      setTimeout(() => {
+        preloader.style.opacity = '0';
+        
+        setTimeout(() => {
+          preloader.style.display = 'none';
+          container.style.display = 'block';
+          
+          // Animate progress bars
+          const progressBars = document.querySelectorAll('.progress-bar');
+          progressBars.forEach(bar => {
+            const width = bar.style.width;
+            bar.style.width = '0%';
+            
+            setTimeout(() => {
+              bar.style.width = width;
+            }, 300);
+          });
+        }, 500);
+      }, 2000);
+    });
+
+    // Navigate to lesson with enhanced transition
+    function navigateToLesson(lessonId) {
+      const card = event.currentTarget;
+      card.style.transform = 'scale(0.98)';
+      card.style.boxShadow = '0 0 30px rgba(0, 240, 255, 0.3)';
+      card.style.background = 'rgba(0, 240, 255, 0.05)';
+      
+      setTimeout(() => {
+        window.location.href = `/lesson/${lessonId}`;
+      }, 300);
+    }
+  </script>
+</body>
+</html>

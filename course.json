@@ -1,0 +1,4625 @@
+{
+    "data": [
+      {
+        "id": 529,
+        "slug": "classroom-off-Line-71st-bpsc-2024-musallahpur-iv",
+        "price": "15000",
+        "end_at": "2026-08-12T18:30:00.000Z",
+        "published_at": "2025-01-21T11:21:17.000Z",
+        "start_at": "2025-02-19T18:30:00.000Z",
+        "title": "Classroom off-Line 71st BPSC (Musallahpur)-IV",
+        "image": {
+          "id": 1442,
+          "entity_id": 529,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c6fabb01-35ee-4147-82d0-2a456ae516d4.png"
+        }
+      },
+      {
+        "id": 625,
+        "slug": "ae-foundation-civil-engineering-batch-2025",
+        "price": "1499",
+        "end_at": "2026-04-20T18:30:00.000Z",
+        "published_at": "2025-04-03T06:30:00.000Z",
+        "start_at": "2025-04-20T18:30:00.000Z",
+        "title": "AE Foundation Civil Engineering Batch 2025",
+        "image": {
+          "id": 1541,
+          "entity_id": 625,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/666518c9-3f06-4363-a37d-214ea1cdc74b.jpg"
+        }
+      },
+      {
+        "id": 624,
+        "slug": "up-psc-pre-mains-foundation-batch-2026-hindi-medium-offline-prayagraj-vi",
+        "price": "35000",
+        "end_at": "2026-10-27T18:30:00.000Z",
+        "published_at": "2025-04-03T10:39:25.000Z",
+        "start_at": "2025-04-27T18:30:00.000Z",
+        "title": "UPSC & UPPSC (Pre+Mains) Foundation Batch 2026 Hindi Medium (Offline Prayagraj)",
+        "image": {
+          "id": 1540,
+          "entity_id": 624,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ae05fa52-3b6e-496b-bb44-d8bd1a039a49.webp"
+        }
+      },
+      {
+        "id": 623,
+        "slug": "upsc-foundation-offline-batch-ms-ii",
+        "price": "30000",
+        "end_at": "2027-04-16T18:30:00.000Z",
+        "published_at": "2025-04-03T01:22:03.000Z",
+        "start_at": "2025-04-16T18:30:00.000Z",
+        "title": "UPSC Foundation Offline Batch - 2026 (Musallahpur)",
+        "image": {
+          "id": 1533,
+          "entity_id": 623,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f2bd6d5b-278f-4f55-9e73-2986abc120ea.png"
+        }
+      },
+      {
+        "id": 622,
+        "slug": "upsc-foundation-offline-batch-br-ii",
+        "price": "35000",
+        "end_at": "2027-04-16T18:30:00.000Z",
+        "published_at": "2025-04-03T01:22:04.000Z",
+        "start_at": "2025-04-16T18:30:00.000Z",
+        "title": "UPSC Foundation Offline Batch - 2026 (Boring Road)",
+        "image": {
+          "id": 1532,
+          "entity_id": 622,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c465670a-12d8-4aeb-8443-d23ce594d999.png"
+        }
+      },
+      {
+        "id": 621,
+        "slug": "ssc-cgl-tier-i-practice-batch-2025",
+        "price": "499",
+        "end_at": "2025-10-09T18:30:00.000Z",
+        "published_at": "2025-04-03T00:22:44.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "SSC CGL Tier-1 Practice Batch 2025",
+        "image": {
+          "id": 1530,
+          "entity_id": 621,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/931a9be6-7be6-4e86-b6ce-4031930b81e0.jpg"
+        }
+      },
+      {
+        "id": 620,
+        "slug": "up-si-moolvidhi-polity-batch-2025",
+        "price": "299",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2025-04-01T10:14:26.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "UP SI (Moolvidhi + Polity) Batch 2025",
+        "image": {
+          "id": 1528,
+          "entity_id": 620,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a746a6d6-4d23-4793-a2d1-f3112855e02e.png"
+        }
+      },
+      {
+        "id": 619,
+        "slug": "up-si-2025-batch",
+        "price": "499",
+        "end_at": "2026-04-09T18:30:00.000Z",
+        "published_at": "2025-04-01T05:27:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "UP SI Batch 2025",
+        "image": {
+          "id": 1526,
+          "entity_id": 619,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f5b92058-3e3d-4071-80ad-b175b6f776e5.png"
+        }
+      },
+      {
+        "id": 617,
+        "slug": "pocket-gk-batch-2025",
+        "price": "499",
+        "end_at": "2025-12-14T18:30:00.000Z",
+        "published_at": "2025-03-27T12:53:29.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Pocket GK Batch 2025",
+        "image": {
+          "id": 1523,
+          "entity_id": 617,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9ba94795-372d-491e-b47b-176e51ac84c4.jpg"
+        }
+      },
+      {
+        "id": 616,
+        "slug": "cds-02-2025-target-batch",
+        "price": "1499",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2025-03-27T12:53:36.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "CDS 02 2025 Target Batch",
+        "image": {
+          "id": 1522,
+          "entity_id": 616,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/62a8b5f6-5ba3-4a05-8174-48cc7235d4f5.jpg"
+        }
+      },
+      {
+        "id": 615,
+        "slug": "nda-02-2025-target-batch",
+        "price": "1499",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2025-03-27T08:24:30.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "NDA 02 2025 Target Batch",
+        "image": {
+          "id": 1521,
+          "entity_id": 615,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2f90413d-c72a-4eb9-9c68-6772df14fdd2.jpg"
+        }
+      },
+      {
+        "id": 614,
+        "slug": "bpsc-online-pt-mains-Interview-batch-v-hindi-medium",
+        "price": "4500",
+        "end_at": "2026-10-16T18:30:00.000Z",
+        "published_at": "2025-03-27T06:59:16.000Z",
+        "start_at": "2025-04-16T18:30:00.000Z",
+        "title": "Foundation BPSC on-line (P.T + Mains+Interview) Batch-V  Hindi Medium",
+        "image": {
+          "id": 1519,
+          "entity_id": 614,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/359db333-c30c-4698-a65f-c229e2828195.png"
+        }
+      },
+      {
+        "id": 613,
+        "slug": "bpsc-pre-mains-interview-foundation-batch-v",
+        "price": "15000",
+        "end_at": "2026-10-16T18:30:00.000Z",
+        "published_at": "2025-03-26T06:24:08.000Z",
+        "start_at": "2025-04-16T18:30:00.000Z",
+        "title": "Classroom Off-line BPSC (Pre + Mains + Interview) Foundation Batch - V (Musallahpur)",
+        "image": {
+          "id": 1514,
+          "entity_id": 613,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d98e8dbe-c552-4e10-8613-b0338873c27e.png"
+        }
+      },
+      {
+        "id": 612,
+        "slug": "biology-foundation-2025-by-khan-sir",
+        "price": "300",
+        "end_at": "2025-10-14T18:30:00.000Z",
+        "published_at": "2025-03-25T10:36:40.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Biology Foundation by Khan Sir",
+        "image": {
+          "id": 1513,
+          "entity_id": 612,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0d7ee2b2-866f-4322-9801-67a291aed42b.jpg"
+        }
+      },
+      {
+        "id": 611,
+        "slug": "chemistry-foundation-2025",
+        "price": "300",
+        "end_at": "2025-10-09T18:30:00.000Z",
+        "published_at": "2025-03-25T10:36:42.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Chemistry Foundation by Khan Sir",
+        "image": {
+          "id": 1512,
+          "entity_id": 611,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fe410cbd-b83a-4ba4-969d-6aeef724db31.jpg"
+        }
+      },
+      {
+        "id": 610,
+        "slug": "economics-foundation-by-khan-sir-2025",
+        "price": "300",
+        "end_at": "2025-10-24T18:30:00.000Z",
+        "published_at": "2025-03-25T10:36:45.000Z",
+        "start_at": "2025-04-24T18:30:00.000Z",
+        "title": "Economics Foundation by Khan Sir",
+        "image": {
+          "id": 1511,
+          "entity_id": 610,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1950186f-6eb9-4090-863f-19e7110e9dd7.jpg"
+        }
+      },
+      {
+        "id": 609,
+        "slug": "uppsc-ro-aro-batch-recorded",
+        "price": "499",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2025-03-24T06:30:00.000Z",
+        "start_at": "2025-03-23T18:30:00.000Z",
+        "title": "UPPSC RO/ARO (Pre+Mains) Re-Exam Foundation Batch Recorded)",
+        "image": {
+          "id": 1509,
+          "entity_id": 609,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2d3502ae-9d5f-45dd-b3be-20f6cd3e2ff1.jpg"
+        }
+      },
+      {
+        "id": 608,
+        "slug": "uppsc-ro-aro-re-exam-revision-batch-2025",
+        "price": "499",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2025-03-20T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "UPPCS RO/ARO Re-Exam Revision Batch 2025",
+        "image": {
+          "id": 1507,
+          "entity_id": 608,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a5b75990-5a55-4965-b3c8-0877dff8b4eb.jpeg"
+        }
+      },
+      {
+        "id": 607,
+        "slug": "bsso-sso-bssc-cgl-iv-batch-2025",
+        "price": "599",
+        "end_at": "2025-10-30T18:30:00.000Z",
+        "published_at": "2025-03-19T06:30:00.000Z",
+        "start_at": "2025-04-01T18:30:00.000Z",
+        "title": "BSO/SSO & BSSC CGL 4 (PT +Mains) Batch-2025",
+        "image": {
+          "id": 1504,
+          "entity_id": 607,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/61f9955a-9b3e-4263-a6d6-c5c1767847ac.jpg"
+        }
+      },
+      {
+        "id": 606,
+        "slug": "uppsc-mains-mentroship-programe-2025-online",
+        "price": "2999",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2025-03-12T06:30:00.000Z",
+        "start_at": "2025-03-23T18:30:00.000Z",
+        "title": "UPPCS Mains Mentorship Program 2025 Online",
+        "image": {
+          "id": 1495,
+          "entity_id": 606,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/996a634f-7b4d-4ce1-b80e-d91f440d73bf.jpg"
+        }
+      },
+      {
+        "id": 605,
+        "slug": "mppsc-pre-mains-foundation-batch-ii-2026",
+        "price": "4999",
+        "end_at": "2026-09-29T18:30:00.000Z",
+        "published_at": "2025-03-12T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "MPPSC (Prelims + Mains) Foundation Batch 2026",
+        "image": {
+          "id": 1497,
+          "entity_id": 605,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/58e33c83-3868-4cb9-82ab-08bbfcee1129.jpg"
+        }
+      },
+      {
+        "id": 604,
+        "slug": "uppcs-mains-mentroship-program-2025-prayagraj-offline",
+        "price": "2999",
+        "end_at": "2025-07-23T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-23T18:30:00.000Z",
+        "title": "UPPCS Mains Mentorship Program 2025 Prayagraj Offline",
+        "image": {
+          "id": 1493,
+          "entity_id": 604,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/aafaf842-316b-4daa-aca3-c783b0511b5c.jpg"
+        }
+      },
+      {
+        "id": 603,
+        "slug": "uppsc-paper-v-and-vi-module-batch-2025",
+        "price": "1999",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-23T18:30:00.000Z",
+        "title": "UPPCS  Paper 5 & 6 Module Batch 2025",
+        "image": {
+          "id": 1492,
+          "entity_id": 603,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8adfc4ec-67c8-4619-ba72-439b04dc3fb2.jpg"
+        }
+      },
+      {
+        "id": 602,
+        "slug": "uppsc-prelims-mains-foundation-batch-2025-26",
+        "price": "4999",
+        "end_at": "2026-10-30T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "UPPSC (Prelims +Mains) Foundation Batch 2025-26",
+        "image": {
+          "id": 1498,
+          "entity_id": 602,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/22fdb7bb-da8e-499e-a5c7-7255f672a5aa.jpg"
+        }
+      },
+      {
+        "id": 601,
+        "slug": "uspc-pre-mains-foundation-batch-2026-hindi-medium-ii",
+        "price": "10000",
+        "end_at": "2027-03-31T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "UPSC (Pre + Mains) Foundation Batch 2026 Hindi Medium",
+        "image": {
+          "id": 1490,
+          "entity_id": 601,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cb36f22c-5586-44db-8cca-3a4efa91631e.jpg"
+        }
+      },
+      {
+        "id": 600,
+        "slug": "upsc-pre-mains-foundation-batch-2026-english-medium-ii",
+        "price": "10000",
+        "end_at": "2027-03-31T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "UPSC (Pre + Mains) Foundation Batch 2026 (English Medium)",
+        "image": {
+          "id": 1489,
+          "entity_id": 600,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/54d123c9-9f47-4fc2-98fb-7b6f4eff044b.jpg"
+        }
+      },
+      {
+        "id": 599,
+        "slug": "ncert-foundation-english-medium",
+        "price": "1499",
+        "end_at": "2026-03-31T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "NCERT Foundation English Medium",
+        "image": {
+          "id": 1488,
+          "entity_id": 599,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/be333645-ff8e-4f95-8d62-b267ba56f007.jpg"
+        }
+      },
+      {
+        "id": 598,
+        "slug": "ncert-foundation-batch-hindi-medium-ii",
+        "price": "1499",
+        "end_at": "2026-03-31T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-31T18:30:00.000Z",
+        "title": "NCERT Foundation Batch (Hindi Medium)",
+        "image": {
+          "id": 1496,
+          "entity_id": 598,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8db88654-eff2-45f4-8659-7f9099cbf6d1.jpg"
+        }
+      },
+      {
+        "id": 597,
+        "slug": "class-12th-pass-mission-batch-neet-2026-hindi",
+        "price": "1999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 12th/ 12th Pass MISSION BATCH NEET 2026 Hindi",
+        "image": {
+          "id": 1487,
+          "entity_id": 597,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9943eddb-4107-415c-b87b-146400a2ca1e.jpg"
+        }
+      },
+      {
+        "id": 596,
+        "slug": "class-12th-pass-mission-batch-neet-2026-english",
+        "price": "1999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 12th/ 12th Pass MISSION BATCH NEET 2026 ENGLISH",
+        "image": {
+          "id": 1486,
+          "entity_id": 596,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/12005e35-3f14-4d32-9441-2e0cea86ec48.jpg"
+        }
+      },
+      {
+        "id": 595,
+        "slug": "class-12th-pass-mission-batch-jee-2026-bilingual",
+        "price": "1999",
+        "end_at": "2025-05-14T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 12th/ 12th Pass MISSION BATCH JEE 2026 BILINGUAL",
+        "image": {
+          "id": 1485,
+          "entity_id": 595,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6c72cc0c-e6a0-4f9d-8112-5c7d64a2be5f.jpg"
+        }
+      },
+      {
+        "id": 594,
+        "slug": "class-11th-vision-batch-neet-2027-hindi",
+        "price": "1999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 11th VISION BATCH NEET 2027 Hindi",
+        "image": {
+          "id": 1484,
+          "entity_id": 594,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0cfc0d86-5b87-4dad-a206-1a2061c07b49.jpg"
+        }
+      },
+      {
+        "id": 593,
+        "slug": "class-1th-vision-batch-neet-2027-english",
+        "price": "1999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 11th VISION BATCH NEET 2027 English",
+        "image": {
+          "id": 1483,
+          "entity_id": 593,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9ec57f75-df84-4477-b393-3fd260856676.jpg"
+        }
+      },
+      {
+        "id": 592,
+        "slug": "class-11th-vision-batch-jee-2027-bilingual",
+        "price": "1999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "Class 11th VISION BATCH JEE 2027 BILINGUAL",
+        "image": {
+          "id": 1482,
+          "entity_id": 592,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/23aebdfe-ae61-4011-ae69-6d8be1dda27d.jpg"
+        }
+      },
+      {
+        "id": 591,
+        "slug": "bihar-police-batch-2025",
+        "price": "499",
+        "end_at": "2025-10-30T18:30:00.000Z",
+        "published_at": "2025-03-11T06:30:00.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "Bihar Police Batch 2025",
+        "image": {
+          "id": 1481,
+          "entity_id": 591,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4c11d7c3-de66-4e19-9823-d29f86df7fd6.png"
+        }
+      },
+      {
+        "id": 590,
+        "slug": "up-police-foundation-batch-2025",
+        "price": "699",
+        "end_at": "2026-03-24T18:30:00.000Z",
+        "published_at": "2025-03-11T01:55:18.000Z",
+        "start_at": "2025-03-24T18:30:00.000Z",
+        "title": "UP Police Foundation Batch 2025",
+        "image": {
+          "id": 1515,
+          "entity_id": 590,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e39c8ab8-9979-4083-9600-97ab7450b017.jpg"
+        }
+      },
+      {
+        "id": 588,
+        "slug": "upsc-csat-practice-batch-2025",
+        "price": "499",
+        "end_at": "2025-06-29T18:30:00.000Z",
+        "published_at": "2025-03-06T06:30:00.000Z",
+        "start_at": "2025-03-23T18:30:00.000Z",
+        "title": "UPSC CSAT Practice Batch 2025",
+        "image": {
+          "id": 1479,
+          "entity_id": 588,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/34312639-8baa-4c75-8843-1e3db860730c.jpg"
+        }
+      },
+      {
+        "id": 587,
+        "slug": "ssc-cpo-si-foundation-batch-recorded",
+        "price": "499",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2025-03-06T06:30:00.000Z",
+        "start_at": "2025-03-05T18:30:00.000Z",
+        "title": "SSC CPO-SI Foundation Batch ( Recorded )",
+        "image": {
+          "id": 1477,
+          "entity_id": 587,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/40109e48-6c4c-4f48-a6b5-512fd7987ed4.png"
+        }
+      },
+      {
+        "id": 586,
+        "slug": "capf-ac-paper-ii-batch-2025",
+        "price": "499",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2025-03-04T18:52:00.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "CAPF AC Paper II Batch 2025",
+        "image": {
+          "id": 1475,
+          "entity_id": 586,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/23a7afe0-f305-4e03-918c-dd2ae9bddba4.png"
+        }
+      },
+      {
+        "id": 585,
+        "slug": "nda-01-2027-foundation-batch-offline-dehradun",
+        "price": "5000",
+        "end_at": "2027-04-19T18:30:00.000Z",
+        "published_at": "2025-02-25T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "NDA 01-2027 Foundation Batch Offline Dehradun",
+        "image": {
+          "id": 1464,
+          "entity_id": 585,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6124e1a5-52be-4390-906a-53c52cb84b2b.jpg"
+        }
+      },
+      {
+        "id": 584,
+        "slug": "nda-01-2026-target-batch-offline-dehradun",
+        "price": "40000",
+        "end_at": "2026-04-14T18:30:00.000Z",
+        "published_at": "2025-02-25T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "NDA 01-2026 Target Batch Offline Dehradun",
+        "image": {
+          "id": 1471,
+          "entity_id": 584,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/471c0b6f-b404-48a1-a427-8fdca7d8688a.jpg"
+        }
+      },
+      {
+        "id": 583,
+        "slug": "cds-01-2026-target-batch-offline-dehradun",
+        "price": "40000",
+        "end_at": "2026-04-14T18:30:00.000Z",
+        "published_at": "2025-02-25T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "CDS 01-2026 Target Batch Offline Dehradun",
+        "image": {
+          "id": 1470,
+          "entity_id": 583,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2d173bae-8263-42af-8b41-903f76768390.png"
+        }
+      },
+      {
+        "id": 582,
+        "slug": "cds-02-2025-target-batch-offline-dehradun",
+        "price": "25000",
+        "end_at": "2025-10-24T18:30:00.000Z",
+        "published_at": "2025-02-25T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "CDS 02-2025 Target Batch Offline Dehradun",
+        "image": {
+          "id": 1467,
+          "entity_id": 582,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/82520d11-240d-46af-954b-5bee894069e2.png"
+        }
+      },
+      {
+        "id": 581,
+        "slug": "nda-02-2025-target-batch-offline-dehradun",
+        "price": "25000",
+        "end_at": "2025-10-24T18:30:00.000Z",
+        "published_at": "2025-02-25T06:30:00.000Z",
+        "start_at": "2025-04-14T18:30:00.000Z",
+        "title": "NDA 02-2025 Target Batch Offline Dehradun",
+        "image": {
+          "id": 1468,
+          "entity_id": 581,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4f27d90e-31d0-401c-9815-9bed7e2853b7.png"
+        }
+      },
+      {
+        "id": 579,
+        "slug": "reasoning-foundation-batch-2025",
+        "price": "499",
+        "end_at": "2026-02-24T18:30:00.000Z",
+        "published_at": "2025-02-21T06:41:24.000Z",
+        "start_at": "2025-02-24T18:30:00.000Z",
+        "title": "Reasoning Foundation Batch 2025 by Manish Sir",
+        "image": {
+          "id": 1457,
+          "entity_id": 579,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e779c085-3720-413e-a101-c8d76806b467.jpg"
+        }
+      },
+      {
+        "id": 578,
+        "slug": "jee-2025-unnati-batch-for-ranker-students",
+        "price": null,
+        "end_at": "2025-05-23T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-02-23T18:30:00.000Z",
+        "title": "JEE 2025 Unnati Batch for Ranker Students",
+        "image": {
+          "id": 1455,
+          "entity_id": 578,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/017fa987-5f44-48e7-8879-bfcfe6ad5a85.jpg"
+        }
+      },
+      {
+        "id": 577,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-ii-mussalahpur-hat-jee-2026",
+        "price": "29999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-04-02T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch - II Mussalahpur Hat  JEE 2026",
+        "image": {
+          "id": 1453,
+          "entity_id": 577,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8537ddd2-54e6-4f33-9532-5340efbe588e.jpg"
+        }
+      },
+      {
+        "id": 576,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-ii-mussalahpur-hat-neet-2026",
+        "price": "29999",
+        "end_at": "2026-04-04T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-04-02T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch-II Musallahpur Hat NEET 2026",
+        "image": {
+          "id": 1452,
+          "entity_id": 576,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/78ac3e3a-ba3a-43f4-9d87-4823bf250b15.jpg"
+        }
+      },
+      {
+        "id": 575,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-ii-boring-road-jee-2026",
+        "price": "34999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-04-02T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch-II Boring Road  JEE 2026",
+        "image": {
+          "id": 1451,
+          "entity_id": 575,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/696c0559-7421-4939-bd4e-124c987f84b8.jpg"
+        }
+      },
+      {
+        "id": 574,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-boring-road-batch-ii-neet-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-04-02T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch-II Boring Road NEET 2026",
+        "image": {
+          "id": 1450,
+          "entity_id": 574,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e81acf04-f9e5-4c02-904e-c579c5d6be57.jpg"
+        }
+      },
+      {
+        "id": 573,
+        "slug": "cuet-2025-mission-batch-science-domain",
+        "price": "999",
+        "end_at": "2025-07-24T18:30:00.000Z",
+        "published_at": "2025-02-20T06:30:00.000Z",
+        "start_at": "2025-03-24T18:30:00.000Z",
+        "title": "CUET 2025 Mission Batch (Science Domain)",
+        "image": {
+          "id": 1476,
+          "entity_id": 573,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f6866d83-4fe7-4323-be20-c59588ddc257.jpg"
+        }
+      },
+      {
+        "id": 572,
+        "slug": "maths-foundation-2025-by-gaurav-sir",
+        "price": "650",
+        "end_at": "2026-03-16T18:30:00.000Z",
+        "published_at": "2025-02-18T11:24:35.000Z",
+        "start_at": "2025-03-16T18:30:00.000Z",
+        "title": "Maths Foundation 2025 By Gaurav Sir",
+        "image": {
+          "id": 1447,
+          "entity_id": 572,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/dbcea204-53a0-4203-a704-8a4f7150fd0f.png"
+        }
+      },
+      {
+        "id": 571,
+        "slug": "bpsc-online-pt-mains-Interview-batch-3",
+        "price": "4500",
+        "end_at": "2026-10-30T18:30:00.000Z",
+        "published_at": "2025-02-13T06:30:00.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "Foundation BPSC on-line (P.T + Mains+Interview) Batch-III - Bilingual",
+        "image": {
+          "id": 1446,
+          "entity_id": 571,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/465def67-4925-47de-97c0-44d2ec0d7c6d.png"
+        }
+      },
+      {
+        "id": 570,
+        "slug": "classroom-offline-bpsc-batch-3-2025",
+        "price": "20000",
+        "end_at": "2026-10-30T18:30:00.000Z",
+        "published_at": "2025-02-13T06:30:00.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "Classroom off-Line BPSC Batch- III 2025 (Branch- Boring Road)",
+        "image": {
+          "id": 1445,
+          "entity_id": 570,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f5735d98-4232-48c6-97d1-b49ad6d66e99.png"
+        }
+      },
+      {
+        "id": 569,
+        "slug": "bpsc-online-pt-mains-Interview-batch-4",
+        "price": "4500",
+        "end_at": "2026-10-30T18:30:00.000Z",
+        "published_at": "2025-02-13T06:30:00.000Z",
+        "start_at": "2025-02-19T18:30:00.000Z",
+        "title": "71st BPSC on-line (P.T + Mains+Interview) Batch- IV - Hindi",
+        "image": {
+          "id": 1443,
+          "entity_id": 569,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/30455436-723e-4a87-8500-1dfae764ad72.jpg"
+        }
+      },
+      {
+        "id": 568,
+        "slug": "bpsc-mains-rankers-batch",
+        "price": "999",
+        "end_at": "2025-08-30T18:30:00.000Z",
+        "published_at": "2025-02-11T06:30:00.000Z",
+        "start_at": "2025-02-12T18:30:00.000Z",
+        "title": "BPSC Mains Rankers Batch (English)",
+        "image": {
+          "id": 1440,
+          "entity_id": 568,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0bcca540-fd49-42cf-a019-e2af987ad83b.jpg"
+        }
+      },
+      {
+        "id": 567,
+        "slug": "ssc-mts-batch-2025",
+        "price": "499",
+        "end_at": "2026-02-09T18:30:00.000Z",
+        "published_at": "2025-02-11T11:21:50.000Z",
+        "start_at": "2025-03-04T18:30:00.000Z",
+        "title": "SSC MTS / हवलदार  प्रतिज्ञा बैच - 2025",
+        "image": {
+          "id": 1438,
+          "entity_id": 567,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b9c9238a-1186-44c4-9841-0b400b4764cf.jpg"
+        }
+      },
+      {
+        "id": 566,
+        "slug": "bpsc-main-exam-mentorship-program-2025-karol-bagh",
+        "price": "2999",
+        "end_at": "2025-08-09T18:30:00.000Z",
+        "published_at": "2025-02-07T06:30:00.000Z",
+        "start_at": "2025-02-09T18:30:00.000Z",
+        "title": "70th BPSC Mains Exam Mentorship Programme 2025 (Karol Bagh)",
+        "image": {
+          "id": 1435,
+          "entity_id": 566,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4dfc3d2d-b9f7-4f35-9288-7d64ddb326a1.jpg"
+        }
+      },
+      {
+        "id": 563,
+        "slug": "world-map-2025",
+        "price": "200",
+        "end_at": "2025-08-17T18:30:00.000Z",
+        "published_at": "2025-02-06T10:48:26.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "World Map 2025 by Khan Sir",
+        "image": {
+          "id": 1472,
+          "entity_id": 563,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9c4fb7a7-6caf-4dc6-b97a-a9a237bf9a91.jpg"
+        }
+      },
+      {
+        "id": 562,
+        "slug": "history-foundation-live-2025",
+        "price": "300",
+        "end_at": "2025-08-17T18:30:00.000Z",
+        "published_at": "2025-02-06T10:48:28.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "History Foundation by Khan Sir",
+        "image": {
+          "id": 1473,
+          "entity_id": 562,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/615843ec-84dd-4dbd-9f54-39f5f078b30e.jpg"
+        }
+      },
+      {
+        "id": 561,
+        "slug": "railway-tgt-pgt-teacher-recruitment-2025",
+        "price": "749",
+        "end_at": "2025-08-17T18:30:00.000Z",
+        "published_at": "2025-02-06T06:30:00.000Z",
+        "start_at": "2025-02-17T18:30:00.000Z",
+        "title": "Railway TGT and PGT Teacher Recruitment 2025",
+        "image": {
+          "id": 1432,
+          "entity_id": 561,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/eed30c50-70c0-44f0-a363-17a6d68f982e.jpg"
+        }
+      },
+      {
+        "id": 560,
+        "slug": "railway-prt-teacher-recruitment-2025",
+        "price": "549",
+        "end_at": "2025-08-17T18:30:00.000Z",
+        "published_at": "2025-02-06T06:30:00.000Z",
+        "start_at": "2025-02-17T18:30:00.000Z",
+        "title": "Railway PRT Teacher Recruitment 2025",
+        "image": {
+          "id": 1431,
+          "entity_id": 560,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ad5b84d5-7094-48fd-a670-4a6e70e05f83.jpg"
+        }
+      },
+      {
+        "id": 559,
+        "slug": "tejas-english-practice-batch-iii",
+        "price": "99",
+        "end_at": "2025-08-19T18:30:00.000Z",
+        "published_at": "2025-02-05T06:30:00.000Z",
+        "start_at": "2025-02-19T18:30:00.000Z",
+        "title": "Tejas English Practice Batch 3.0",
+        "image": {
+          "id": 1430,
+          "entity_id": 559,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5b8378bb-cb04-4483-9dfa-feb4370fdf2a.jpg"
+        }
+      },
+      {
+        "id": 557,
+        "slug": "bpsc-mains-ranker-batch",
+        "price": "499",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-02-05T18:30:00.000Z",
+        "title": "BPSC Mains Rankers Batch (Hindi)",
+        "image": {
+          "id": 1425,
+          "entity_id": 557,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/83abbeb3-3fff-45ee-928f-40287ae1fba6.jpg"
+        }
+      },
+      {
+        "id": 556,
+        "slug": "bpsc-mains-ethics-module",
+        "price": "999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-02-11T18:30:00.000Z",
+        "title": "70वीं BPSC मुख्य परीक्षा निबंध बैच",
+        "image": {
+          "id": 1424,
+          "entity_id": 556,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2d50d494-4122-4406-9116-6e0a524acb56.png"
+        }
+      },
+      {
+        "id": 555,
+        "slug": "mp-si-pre-mains-foundation-batch",
+        "price": "1499",
+        "end_at": "2026-02-23T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-02-23T18:30:00.000Z",
+        "title": "MP SI (Pre+ Mains) Foundation Batch",
+        "image": {
+          "id": 1459,
+          "entity_id": 555,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/879b0cd7-264b-4976-8477-44b9161ae907.jpg"
+        }
+      },
+      {
+        "id": 554,
+        "slug": "economics-foundation-recorded-ii",
+        "price": "199",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-02-03T18:30:00.000Z",
+        "title": "Economics Foundation (Recorded)",
+        "image": {
+          "id": 1421,
+          "entity_id": 554,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a2ddd560-acf1-40a6-8f09-968311f6d421.jpg"
+        }
+      },
+      {
+        "id": 553,
+        "slug": "calculation-booster-batch-by-neeraj-sir-recorded",
+        "price": "99",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-02-03T18:30:00.000Z",
+        "title": "Calculation Booster Batch By Neeraj Sir (Recorded)",
+        "image": {
+          "id": 1422,
+          "entity_id": 553,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4f661a16-7934-4b6b-b3a9-e55e80ac7122.jpg"
+        }
+      },
+      {
+        "id": 550,
+        "slug": "cds-01-2025-practice-batch",
+        "price": "799",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-01-28T06:30:00.000Z",
+        "start_at": "2025-02-09T18:30:00.000Z",
+        "title": "CDS-01 2025 Practice Batch",
+        "image": {
+          "id": 1413,
+          "entity_id": 550,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/62d719ad-08df-4876-aec2-e1707336598f.jpg"
+        }
+      },
+      {
+        "id": 549,
+        "slug": "nda-01-2025-practice-batch",
+        "price": "799",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-01-28T06:30:00.000Z",
+        "start_at": "2025-02-09T18:30:00.000Z",
+        "title": "NDA-01 2025 Practice Batch",
+        "image": {
+          "id": 1412,
+          "entity_id": 549,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3d105367-36a6-474b-9a3a-cbb8adf1c25f.jpg"
+        }
+      },
+      {
+        "id": 548,
+        "slug": "ssb-interview-kgs-defence-registration",
+        "price": "500",
+        "end_at": "2026-04-02T18:30:00.000Z",
+        "published_at": "2025-01-27T11:03:07.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "SSB Interview KGS Defence",
+        "image": {
+          "id": 1411,
+          "entity_id": 548,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/404f0217-b55d-4126-8e3a-535fb6adbf4a.png"
+        }
+      },
+      {
+        "id": 525,
+        "slug": "ras-foundation-2025-prelims-mains",
+        "price": "4500",
+        "end_at": "2026-08-10T18:30:00.000Z",
+        "published_at": "2025-02-04T06:30:00.000Z",
+        "start_at": "2025-03-19T18:30:00.000Z",
+        "title": "RAS Foundation 2025 (Prelims + Mains + Foundation)",
+        "image": {
+          "id": 1436,
+          "entity_id": 525,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cc70a1b0-764d-4841-9659-e41e4756da66.jpg"
+        }
+      },
+      {
+        "id": 547,
+        "slug": "bank-insurance-exam-foundation-batch",
+        "price": "999",
+        "end_at": "2026-02-04T18:30:00.000Z",
+        "published_at": "2025-01-23T04:37:17.000Z",
+        "start_at": "2025-02-04T18:30:00.000Z",
+        "title": "Bank + Insurance Exam Foundation Batch",
+        "image": {
+          "id": 1405,
+          "entity_id": 547,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3c8d3829-1762-464c-9e29-dabd6427a5db.jpeg"
+        }
+      },
+      {
+        "id": 546,
+        "slug": "sociology-optional-english-medium",
+        "price": "4999",
+        "end_at": "2025-11-29T18:30:00.000Z",
+        "published_at": "2025-01-21T19:12:00.000Z",
+        "start_at": "2025-02-12T18:30:00.000Z",
+        "title": "Sociology Optional English Medium",
+        "image": {
+          "id": 1404,
+          "entity_id": 546,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/89d376a5-7060-4351-8f0f-a3bdf1d83bb0.jpeg"
+        }
+      },
+      {
+        "id": 545,
+        "slug": "ncert-foundation-english-medium-ii",
+        "price": "1499",
+        "end_at": "2026-01-27T18:30:00.000Z",
+        "published_at": "2025-01-21T19:04:00.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "NCERT Foundation English Medium",
+        "image": {
+          "id": 1403,
+          "entity_id": 545,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c7762a0b-d180-4ee7-a484-82ee85c7616c.jpeg"
+        }
+      },
+      {
+        "id": 544,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-mussalahpur-hatt-jee-2026",
+        "price": "29999",
+        "end_at": "2025-05-04T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Mussalahpur Hat  JEE 2026",
+        "image": {
+          "id": 1402,
+          "entity_id": 544,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e52e0994-5485-45cc-968f-5332c0e5d650.jpg"
+        }
+      },
+      {
+        "id": 543,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-mussalahpur-neet-2026",
+        "price": "29999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Mussalahpur Hat  NEET 2026",
+        "image": {
+          "id": 1401,
+          "entity_id": 543,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f55a0ad6-1aa6-4603-914b-e1ef008b772d.jpg"
+        }
+      },
+      {
+        "id": 542,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-boring-road-jee-2026",
+        "price": "34999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Boring Road  JEE 2026",
+        "image": {
+          "id": 1400,
+          "entity_id": 542,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/973423e0-80da-450e-98fc-eb9f14ebcd86.jpg"
+        }
+      },
+      {
+        "id": 541,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-boring-road-neet-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Boring Road  NEET 2026",
+        "image": {
+          "id": 1399,
+          "entity_id": 541,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/549fd869-321b-48e2-bfea-7e7979fb2977.jpg"
+        }
+      },
+      {
+        "id": 540,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-prayagraj-jee-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Prayagraj JEE 2026",
+        "image": {
+          "id": 1398,
+          "entity_id": 540,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a12b803c-67af-45dc-8e09-5c730b51e2ec.jpg"
+        }
+      },
+      {
+        "id": 539,
+        "slug": "class-12-to-13-moving-offline-yearlong-bilingual-batch-prayagraj-neet-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-09T18:30:00.000Z",
+        "title": "Class 12th to 13th Moving Offline Yearlong Bilingual Batch - Prayagraj NEET 2026",
+        "image": {
+          "id": 1397,
+          "entity_id": 539,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8bdaeada-3bf4-4996-a1a7-da978d06dd9e.jpg"
+        }
+      },
+      {
+        "id": 538,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-mussalahpur-jee-2027",
+        "price": "29999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Yearlong Bilingual Batch - Mussalahpur Hat JEE 2027",
+        "image": {
+          "id": 1406,
+          "entity_id": 538,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cf50355f-827c-413d-be2a-47276b150778.jpg"
+        }
+      },
+      {
+        "id": 537,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-mussalahpur-2027",
+        "price": "29999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Offline Yearlong Bilingual Batch - Mussalahpur Hat  NEET 2027",
+        "image": {
+          "id": 1395,
+          "entity_id": 537,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/06daac62-fc2c-4ad0-a6d2-75d9eaa047ef.jpg"
+        }
+      },
+      {
+        "id": 536,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-boring-road-2027",
+        "price": "34999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Offline Yearlong Bilingual Batch - Boring Road  JEE 2027",
+        "image": {
+          "id": 1394,
+          "entity_id": 536,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/98e273a5-6e1a-488a-ba79-f41e30b716d7.jpg"
+        }
+      },
+      {
+        "id": 535,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-broing-road-2027",
+        "price": "34999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Offline Yearlong Bilingual Batch - Boring Road  NEET 2027",
+        "image": {
+          "id": 1393,
+          "entity_id": 535,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4842bf37-492c-4431-9dfa-d912b5cfc06a.jpg"
+        }
+      },
+      {
+        "id": 534,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-prayagraj-jee-2027",
+        "price": "34999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Offline Yearlong Bilingual Batch - Prayagraj JEE 2027",
+        "image": {
+          "id": 1392,
+          "entity_id": 534,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/67a26fe6-a609-4095-9962-337beba357e0.jpg"
+        }
+      },
+      {
+        "id": 533,
+        "slug": "class-10-to-11-moving-offline-yearlong-bilingual-batch-prayagraj-2027",
+        "price": "34999",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2025-01-21T06:30:00.000Z",
+        "start_at": "2025-04-07T18:30:00.000Z",
+        "title": "Class 10th to 11th Moving Offline Yearlong Bilingual Batch - Prayagraj NEET 2027",
+        "image": {
+          "id": 1391,
+          "entity_id": 533,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/28f68509-3798-443d-ab68-82d881df7add.jpg"
+        }
+      },
+      {
+        "id": 532,
+        "slug": "rrb-group-d-batch-2025",
+        "price": "699",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2025-01-21T12:46:36.000Z",
+        "start_at": "2025-01-26T18:30:00.000Z",
+        "title": "RRB Group D Batch-2025",
+        "image": {
+          "id": 1390,
+          "entity_id": 532,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d91e6bda-8738-41ed-b109-df708f5527df.jpg"
+        }
+      },
+      {
+        "id": 531,
+        "slug": "uppsc-ae-prelims-batch",
+        "price": "1499",
+        "end_at": "2026-02-03T18:30:00.000Z",
+        "published_at": "2025-01-21T11:21:13.000Z",
+        "start_at": "2025-02-03T18:30:00.000Z",
+        "title": "UPPSC AE (Electrical, Mechanical & Agriculture Engineering)2024-25 Prelims Batch",
+        "image": {
+          "id": 1389,
+          "entity_id": 531,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b608982a-1ac2-443e-8d3f-52bdc5bc14d2.png"
+        }
+      },
+      {
+        "id": 530,
+        "slug": "uppsc-ae-pre-mains-foundation-batch-2024-25",
+        "price": "1899",
+        "end_at": "2026-02-03T18:30:00.000Z",
+        "published_at": "2025-01-21T11:21:15.000Z",
+        "start_at": "2025-02-03T18:30:00.000Z",
+        "title": "UPPSC AE Civil Engineering (Pre + Mains) Foundation Batch 2024-25",
+        "image": {
+          "id": 1388,
+          "entity_id": 530,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/bdb82107-b382-4df4-a481-573b9bb27889.png"
+        }
+      },
+      {
+        "id": 529,
+        "slug": "classroom-off-Line-71st-bpsc-2024-musallahpur-iv",
+        "price": "15000",
+        "end_at": "2026-08-12T18:30:00.000Z",
+        "published_at": "2025-01-21T11:21:17.000Z",
+        "start_at": "2025-02-12T18:30:00.000Z",
+        "title": "Classroom off-Line 71st BPSC (Musallahpur)-IV",
+        "image": {
+          "id": 1386,
+          "entity_id": 529,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e800cb44-a590-419e-9a26-767f27ce1877.png"
+        }
+      },
+      {
+        "id": 527,
+        "slug": "bihar-ssc-10-2-level-recorded-batch",
+        "price": "399",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2025-01-17T06:30:00.000Z",
+        "start_at": "2025-01-16T18:30:00.000Z",
+        "title": "Bihar SSC (10+2) Level Recorded Batch",
+        "image": {
+          "id": 1378,
+          "entity_id": 527,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d81e12e4-6bb1-4dda-88b1-78e2f9521c89.jpg"
+        }
+      },
+      {
+        "id": 524,
+        "slug": "mp-assistant-grade-iii",
+        "price": "499",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-01-16T06:30:00.000Z",
+        "start_at": "2025-01-22T18:30:00.000Z",
+        "title": "MP Assistant Grade-III",
+        "image": {
+          "id": 1376,
+          "entity_id": 524,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/efd15c18-c069-4af5-a74d-66a4be08d51b.png"
+        }
+      },
+      {
+        "id": 522,
+        "slug": "reasoning-special",
+        "price": "199",
+        "end_at": "2025-08-02T18:30:00.000Z",
+        "published_at": "2025-01-16T06:30:00.000Z",
+        "start_at": "2025-02-02T18:30:00.000Z",
+        "title": "Reasoning Special All Banking Exams (Bilingual)",
+        "image": {
+          "id": 1374,
+          "entity_id": 522,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9b165301-8327-43ba-a151-a26cb97ecdf6.png"
+        }
+      },
+      {
+        "id": 521,
+        "slug": "upsc-gs-csat-prelims-2025-crasah-course",
+        "price": "2999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2025-01-15T06:23:46.000Z",
+        "start_at": "2025-01-19T18:30:00.000Z",
+        "title": "UPSC Prelims (GS + CSAT) 2025 Crash Course",
+        "image": {
+          "id": 1365,
+          "entity_id": 521,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6ade4661-3317-4dc8-9d20-2881c4815c4a.jpg"
+        }
+      },
+      {
+        "id": 520,
+        "slug": "upsc-pre-mains-foundation-batch-2026-hindi-medium-vi",
+        "price": "10000",
+        "end_at": "2027-01-27T18:30:00.000Z",
+        "published_at": "2025-01-14T06:30:00.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2026 (Hindi Medium)",
+        "image": {
+          "id": 1364,
+          "entity_id": 520,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/85382cb6-9aa4-40e3-9cfe-94dfbfce9f23.jpg"
+        }
+      },
+      {
+        "id": 519,
+        "slug": "upsc-pre-mains-foundation-batch-2026-english-medium-vi",
+        "price": "10000",
+        "end_at": "2027-01-27T18:30:00.000Z",
+        "published_at": "2025-01-15T06:23:44.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2026 (English Medium)",
+        "image": {
+          "id": 1366,
+          "entity_id": 519,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1c6c05e4-2f18-4f02-9a4a-63f7abf9b7ab.jpg"
+        }
+      },
+      {
+        "id": 518,
+        "slug": "ctet-july-2025-paper-i-foundation-batch",
+        "price": "449",
+        "end_at": "2025-09-20T18:30:00.000Z",
+        "published_at": "2025-01-13T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "CTET July 2025 Paper 1 Foundation Batch 2.0",
+        "image": {
+          "id": 1362,
+          "entity_id": 518,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5c83dbdb-6a2e-45ce-a688-f39b6f107fcf.jpg"
+        }
+      },
+      {
+        "id": 517,
+        "slug": "ctet-july-2025-foundation-batch",
+        "price": "799",
+        "end_at": "2025-09-20T18:30:00.000Z",
+        "published_at": "2025-01-13T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "CTET July 2025 (Paper I & II) Foundation Batch 2.0",
+        "image": {
+          "id": 1361,
+          "entity_id": 517,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e5599662-9d99-4258-9e09-2d1ebb32f28b.jpg"
+        }
+      },
+      {
+        "id": 516,
+        "slug": "upsc-uppsc-paper-iv",
+        "price": "1299",
+        "end_at": "2026-01-19T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-01-19T18:30:00.000Z",
+        "title": "UPSC & UPPSC  (निबंध + नीतिशास्त्र)  Paper-IV",
+        "image": {
+          "id": 1357,
+          "entity_id": 516,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/795d5ae5-466b-478e-9985-927d949f2ee6.jpg"
+        }
+      },
+      {
+        "id": 515,
+        "slug": "current-affairs-upsc-and-state-psc-2025-batch-english-medium",
+        "price": "365",
+        "end_at": "2026-07-24T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-01-19T18:30:00.000Z",
+        "title": "Current Affairs (UPSC & State PSC) Batch 2025 (English Medium)",
+        "image": {
+          "id": 1356,
+          "entity_id": 515,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/94ea68ae-5395-485b-a98c-f0aafc8920ff.jpg"
+        }
+      },
+      {
+        "id": 514,
+        "slug": "current-affairs-upsc-and-state-psc-2025-batch-hindi-medium-ii",
+        "price": "365",
+        "end_at": "2026-07-19T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-01-19T18:30:00.000Z",
+        "title": "Current Affairs (UPSC & State PSC) Batch 2025 (Hindi Medium)",
+        "image": {
+          "id": 1355,
+          "entity_id": 514,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5fba7dda-ce80-46e4-9a5e-f4e246430bdc.jpg"
+        }
+      },
+      {
+        "id": 513,
+        "slug": "up-psc-pre-mains-foundation-batch-2026-offline-prayagraj-iiv",
+        "price": "30000",
+        "end_at": "2026-07-22T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-02-17T18:30:00.000Z",
+        "title": "UPSC & UPPSC (Pre+Mains) Foundation Batch 2026 (Offline Prayagraj)",
+        "image": {
+          "id": 1354,
+          "entity_id": 513,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ec754631-702f-4715-9b8f-40400dd8eb2e.jpeg"
+        }
+      },
+      {
+        "id": 512,
+        "slug": "up-psc-pre-mains-foundation-batch-2026-offline-prayagraj-english-medium",
+        "price": "30000",
+        "end_at": "2026-07-27T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-02-19T18:30:00.000Z",
+        "title": "UPSC & UPPSC (Pre+Mains) Foundation Batch 2026 English Medium (Offline Prayagraj)",
+        "image": {
+          "id": 1353,
+          "entity_id": 512,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/52026650-26bd-4cec-92c5-083b49bd27ab.jpeg"
+        }
+      },
+      {
+        "id": 511,
+        "slug": "history-optional-hindi-optional-ii",
+        "price": "4999",
+        "end_at": "2025-11-29T18:30:00.000Z",
+        "published_at": "2025-01-09T11:45:55.000Z",
+        "start_at": "2025-01-19T18:30:00.000Z",
+        "title": "History Optional Hindi Medium",
+        "image": {
+          "id": 1352,
+          "entity_id": 511,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1ac48e03-3476-4a22-a5bf-19bad050c38b.jpg"
+        }
+      },
+      {
+        "id": 510,
+        "slug": "public-administration-optional-english-4-medium",
+        "price": "4999",
+        "end_at": "2025-11-29T18:30:00.000Z",
+        "published_at": "2025-01-09T11:45:58.000Z",
+        "start_at": "2025-02-05T18:30:00.000Z",
+        "title": "Public Administration Optional English Medium",
+        "image": {
+          "id": 1407,
+          "entity_id": 510,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3b312b45-dc50-455c-a62b-f96f47f51325.jpg"
+        }
+      },
+      {
+        "id": 509,
+        "slug": "hindi-literature-optional-iii",
+        "price": "4999",
+        "end_at": "2025-11-27T18:30:00.000Z",
+        "published_at": "2025-01-09T06:30:00.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "Hindi Literature Optional",
+        "image": {
+          "id": 1350,
+          "entity_id": 509,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/82b68be4-24db-4c9c-b4a4-5d17040ac61a.jpg"
+        }
+      },
+      {
+        "id": 508,
+        "slug": "maths-optional-bilingual-batch-5",
+        "price": "4999",
+        "end_at": "2025-11-27T18:30:00.000Z",
+        "published_at": "2025-01-09T11:46:01.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "Maths Optional Bilingual",
+        "image": {
+          "id": 1349,
+          "entity_id": 508,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/35d19f34-0163-4aa6-a05d-d46ef4b81f51.jpg"
+        }
+      },
+      {
+        "id": 507,
+        "slug": "ugc-net-jrf-hindi-june-2025",
+        "price": "1499",
+        "end_at": "2026-01-20T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF Hindi सृजन Foundation June 2025 बैच",
+        "image": {
+          "id": 1342,
+          "entity_id": 507,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/053c0e58-5937-4a09-affa-3ce473374239.jpg"
+        }
+      },
+      {
+        "id": 506,
+        "slug": "ugc-net-jrf-commerce-june-2025",
+        "price": "1499",
+        "end_at": "2026-01-20T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF Commerce सृजन Foundation June 2025 Batch",
+        "image": {
+          "id": 1341,
+          "entity_id": 506,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8f2ddca6-a266-4fdd-b3d4-200f75909592.jpg"
+        }
+      },
+      {
+        "id": 505,
+        "slug": "ugc-net-jrf-history-june-2025",
+        "price": "1499",
+        "end_at": "2026-01-19T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF History सृजन Foundation June 2025 Batch",
+        "image": {
+          "id": 1340,
+          "entity_id": 505,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/25877b22-a4e9-4acd-80dd-804caf6c3320.jpg"
+        }
+      },
+      {
+        "id": 504,
+        "slug": "ugc-net-jrf-political-science-june-2025",
+        "price": "1499",
+        "end_at": "2026-01-20T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF Political Science सृजन Foundation June 2025 Batch",
+        "image": {
+          "id": 1339,
+          "entity_id": 504,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/30187c76-3722-4459-a441-fe5e2b2c81bf.jpg"
+        }
+      },
+      {
+        "id": 503,
+        "slug": "ugc-net-jrf-geography-june-2025",
+        "price": "1499",
+        "end_at": "2026-01-20T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF Geography सृजन Foundation June 2025 Batch",
+        "image": {
+          "id": 1338,
+          "entity_id": 503,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cd33a1b8-4be8-47f4-a2a2-f57bd6c7cbde.jpg"
+        }
+      },
+      {
+        "id": 502,
+        "slug": "ugc-net-jrf-paper-1-june-2025",
+        "price": "799",
+        "end_at": "2026-01-20T18:30:00.000Z",
+        "published_at": "2025-01-08T06:30:00.000Z",
+        "start_at": "2025-01-20T18:30:00.000Z",
+        "title": "UGC NET/JRF Paper -1 सृजन Foundation Batch June 2025",
+        "image": {
+          "id": 1337,
+          "entity_id": 502,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e63d76e8-f30c-422c-aa91-999859efff7c.png"
+        }
+      },
+      {
+        "id": 501,
+        "slug": "gs-foundation-batch-2026-english-medium-offline-batch-7",
+        "price": "79500",
+        "end_at": "2027-01-27T18:30:00.000Z",
+        "published_at": "2025-01-07T06:30:00.000Z",
+        "start_at": "2025-01-27T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains) Foundation Programme 2026 English Medium (Offline Class) Karol Bagh",
+        "image": {
+          "id": 1336,
+          "entity_id": 501,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6374bbbb-1d9e-4824-bbb3-72d5b4c96364.webp"
+        }
+      },
+      {
+        "id": 500,
+        "slug": "gs-foundation-batch-2026-hindi-medium-offline-batch-8",
+        "price": "69500",
+        "end_at": "2027-01-22T18:30:00.000Z",
+        "published_at": "2025-01-07T06:30:00.000Z",
+        "start_at": "2025-02-02T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग्राम 2026 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
+        "image": {
+          "id": 1335,
+          "entity_id": 500,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/08e5f565-35e2-42d7-afd4-3c52a92bdb5d.webp"
+        }
+      },
+      {
+        "id": 499,
+        "slug": "ssb-interview-guidance-batch-21",
+        "price": "5000",
+        "end_at": "2025-02-14T18:30:00.000Z",
+        "published_at": "2025-01-07T06:30:00.000Z",
+        "start_at": "2025-01-15T18:30:00.000Z",
+        "title": "SSB Interview Program",
+        "image": {
+          "id": 1334,
+          "entity_id": 499,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1c258a82-c8be-4351-b523-33e570fd0344.png"
+        }
+      },
+      {
+        "id": 498,
+        "slug": "sbi-po-pre-mains-2025-recorded-batch",
+        "price": "499",
+        "end_at": "2025-07-06T18:30:00.000Z",
+        "published_at": "2025-01-07T06:30:00.000Z",
+        "start_at": "2025-01-06T18:30:00.000Z",
+        "title": "SBI PO (Pre + Mains) 2025 Recorded Batch",
+        "image": {
+          "id": 1333,
+          "entity_id": 498,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9598af4f-54a2-451c-811e-c852fcfb2bf8.jpg"
+        }
+      },
+      {
+        "id": 497,
+        "slug": "gs-special-vision-foundation-batch-2025",
+        "price": "499",
+        "end_at": "2026-01-28T18:30:00.000Z",
+        "published_at": "2025-01-07T06:30:00.000Z",
+        "start_at": "2025-01-28T18:30:00.000Z",
+        "title": "GS Special Vision Foundation Batch-2025",
+        "image": {
+          "id": 1332,
+          "entity_id": 497,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0e7462ea-d1ef-4d1c-acfa-43814081365e.png"
+        }
+      },
+      {
+        "id": 496,
+        "slug": "rajasthan-patwar-vdo-jail-prahari-target-batch",
+        "price": "499",
+        "end_at": "2025-09-14T18:30:00.000Z",
+        "published_at": "2025-01-06T06:30:00.000Z",
+        "start_at": "2025-01-14T18:30:00.000Z",
+        "title": "Rajasthan Patwar | VDO | Jail Prahari Target Batch",
+        "image": {
+          "id": 1327,
+          "entity_id": 496,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cd75e80f-8c3f-4ea0-999d-cdb6036b369f.png"
+        }
+      },
+      {
+        "id": 493,
+        "slug": "uppsc-foundation-batch-2025-26",
+        "price": "4500",
+        "end_at": "2026-07-12T18:30:00.000Z",
+        "published_at": "2025-01-02T14:20:00.000Z",
+        "start_at": "2025-01-05T18:30:00.000Z",
+        "title": "UPPSC (Prelims+Mains) Foundation Batch 2025-26",
+        "image": {
+          "id": 1321,
+          "entity_id": 493,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/39b87dbc-7bb9-456a-9e7f-1cf7f3a765c4.jpg"
+        }
+      },
+      {
+        "id": 492,
+        "slug": "mppsc-foundation-2026",
+        "price": "4500",
+        "end_at": "2026-07-12T18:30:00.000Z",
+        "published_at": "2025-01-02T14:14:00.000Z",
+        "start_at": "2025-01-12T18:30:00.000Z",
+        "title": "MPPSC (Prelims + Mains) Foundation Batch 2026",
+        "image": {
+          "id": 1323,
+          "entity_id": 492,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8f84a06a-00a9-4a97-9c2a-f6a2d4edeab5.jpg"
+        }
+      },
+      {
+        "id": 491,
+        "slug": "mp-mahila-supervisor-target-batch-04",
+        "price": "249",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2025-01-02T12:39:00.000Z",
+        "start_at": "2025-01-05T18:30:00.000Z",
+        "title": "MP महिला सुपरवाइजर Target Batch",
+        "image": {
+          "id": 1318,
+          "entity_id": 491,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3523e37c-43f3-4049-8be1-92980d52adc9.jpeg"
+        }
+      },
+      {
+        "id": 490,
+        "slug": "teaching-foundation-batch-2025",
+        "price": "1499",
+        "end_at": "2025-12-23T18:30:00.000Z",
+        "published_at": "2024-12-24T07:33:25.000Z",
+        "start_at": "2025-01-01T18:30:00.000Z",
+        "title": "Teaching Foundation Batch 2025",
+        "image": {
+          "id": 1316,
+          "entity_id": 490,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/562318da-cf24-462a-9479-b45b8aacf327.png"
+        }
+      },
+      {
+        "id": 186,
+        "slug": "classroom-off-Line-BPSC-Batch- 2-2024",
+        "price": "15000",
+        "end_at": "2025-06-29T18:30:00.000Z",
+        "published_at": "2023-12-01T06:30:00.000Z",
+        "start_at": "2023-12-04T18:30:00.000Z",
+        "title": "Classroom off-Line BPSC Batch- 2 2024 (Branch- Musallahpur)",
+        "image": {
+          "id": 436,
+          "entity_id": 186,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/440ed584-4ac7-4d92-a87d-58e5e8aff0b6.jpeg"
+        }
+      },
+      {
+        "id": 489,
+        "slug": "air-force-agniveer-target-batch-2025",
+        "price": "599",
+        "end_at": "2025-06-25T18:30:00.000Z",
+        "published_at": "2024-12-20T07:19:51.000Z",
+        "start_at": "2024-12-25T18:30:00.000Z",
+        "title": "Air Force Agniveer Target Batch 2025",
+        "image": {
+          "id": 1309,
+          "entity_id": 489,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/7e9f5ede-9328-4594-a3f2-cf8d204520d9.jpg"
+        }
+      },
+      {
+        "id": 488,
+        "slug": "ssb-interview-guidance-batch-20",
+        "price": "5000",
+        "end_at": "2025-02-01T18:30:00.000Z",
+        "published_at": "2024-12-19T11:24:45.000Z",
+        "start_at": "2025-01-01T18:30:00.000Z",
+        "title": "SSB Interview Program",
+        "image": {
+          "id": 1308,
+          "entity_id": 488,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e8fc7500-122b-45e6-a5b7-82f9ae48e913.png"
+        }
+      },
+      {
+        "id": 487,
+        "slug": "sbi-clerk-pre-mains-target-batch-2025",
+        "price": "399",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-12-19T06:23:58.000Z",
+        "start_at": "2024-12-22T18:30:00.000Z",
+        "title": "SBI Clerk (Pre+Mains) Target Batch 2025",
+        "image": {
+          "id": 1307,
+          "entity_id": 487,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c37f0e95-4134-4e5a-b274-9d08f5c71271.png"
+        }
+      },
+      {
+        "id": 486,
+        "slug": "bpsc-70th-mains-gs-i-gs-ii-essay-bilingual-medium",
+        "price": "2999",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-12-16T06:30:00.000Z",
+        "start_at": "2024-12-18T18:30:00.000Z",
+        "title": "70th BPSC Mains (GS I + GS II + Essay + Hindi) Bilingual",
+        "image": {
+          "id": 1300,
+          "entity_id": 486,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f13cd526-7f9e-4219-822b-ba15cac0b389.png"
+        }
+      },
+      {
+        "id": 485,
+        "slug": "bpsc-70th-mains-gs-i-gs-ii-essay-hindi-medium",
+        "price": "2999",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-12-16T06:30:00.000Z",
+        "start_at": "2024-12-16T18:30:00.000Z",
+        "title": "70th BPSC Mains (GS I + GS II + Essay + Hindi) Hindi Medium",
+        "image": {
+          "id": 1299,
+          "entity_id": 485,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3980b234-bfc8-46fe-b9b0-d776f042a92d.png"
+        }
+      },
+      {
+        "id": 483,
+        "slug": "ssb-interview-guidance-batch-19",
+        "price": "5000",
+        "end_at": "2024-12-29T18:30:00.000Z",
+        "published_at": "2024-12-09T06:30:00.000Z",
+        "start_at": "2024-12-15T18:30:00.000Z",
+        "title": "SSB Interview Program",
+        "image": {
+          "id": 1298,
+          "entity_id": 483,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/951a001e-aa41-4171-8598-375f89973c5c.png"
+        }
+      },
+      {
+        "id": 481,
+        "slug": "classroom-off-Line-71st-bpsc-2024-musallahpur-iii",
+        "price": "15000",
+        "end_at": "2026-06-17T18:30:00.000Z",
+        "published_at": "2024-12-03T06:30:00.000Z",
+        "start_at": "2024-12-18T18:30:00.000Z",
+        "title": "Classroom off-Line 71st BPSC (Musallahpur)-III",
+        "image": {
+          "id": 1297,
+          "entity_id": 481,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1fe5e3ae-3457-479c-b2d8-cb614ccead8a.png"
+        }
+      },
+      {
+        "id": 480,
+        "slug": "bpsc-batch-on-line-pt-mains-essay-71-ii",
+        "price": "4500",
+        "end_at": "2026-06-17T18:30:00.000Z",
+        "published_at": "2024-12-03T06:30:00.000Z",
+        "start_at": "2024-12-18T18:30:00.000Z",
+        "title": "71st BPSC on-line (P.T + Mains+Interview) Batch-III",
+        "image": {
+          "id": 1296,
+          "entity_id": 480,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6e76af9c-4ce1-447d-8d49-1aaee35da3e4.png"
+        }
+      },
+      {
+        "id": 478,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-mussalahpur-hat-jee-2026",
+        "price": "29999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2024-11-21T08:19:28.000Z",
+        "start_at": "2025-01-29T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch - Musallahpur Hat JEE 2026",
+        "image": {
+          "id": 1288,
+          "entity_id": 478,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ae84d929-465d-47ba-a445-b7fd711b00b7.jpg"
+        }
+      },
+      {
+        "id": 477,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-mussalahpur-hat-neet-2026",
+        "price": "29999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2024-11-21T08:19:26.000Z",
+        "start_at": "2025-01-29T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch-Musallahpur Hat NEET 2026",
+        "image": {
+          "id": 1287,
+          "entity_id": 477,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/84af90e8-b0a1-4875-8217-7270f0e1538b.jpg"
+        }
+      },
+      {
+        "id": 476,
+        "slug": "ssc-cgl-tier-i-and-ii-foundation-batch-2025",
+        "price": "999",
+        "end_at": "2025-11-20T18:30:00.000Z",
+        "published_at": "2024-11-21T08:32:30.000Z",
+        "start_at": "2024-12-15T18:30:00.000Z",
+        "title": "SSC CGL TIER-I & II Foundation Batch-2025",
+        "image": {
+          "id": 1286,
+          "entity_id": 476,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c5438882-8537-4086-98a1-0548a2e95e30.png"
+        }
+      },
+      {
+        "id": 475,
+        "slug": "uppgt-2024-practice-batch",
+        "price": "699",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-11-19T06:30:00.000Z",
+        "start_at": "2024-11-23T18:30:00.000Z",
+        "title": "UP PGT 2024 रफ़्तार Practice Batch",
+        "image": {
+          "id": 1285,
+          "entity_id": 475,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/06c115f6-0c21-4de9-b8e1-15fb5ccd2f56.jpg"
+        }
+      },
+      {
+        "id": 474,
+        "slug": "uptgt-2024-practice-batch",
+        "price": "499",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-11-19T06:30:00.000Z",
+        "start_at": "2024-11-25T18:30:00.000Z",
+        "title": "UP TGT 2024 रफ़्तार Practice Batch",
+        "image": {
+          "id": 1284,
+          "entity_id": 474,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/89a4b656-3158-4db1-a294-78da57f372fe.jpg"
+        }
+      },
+      {
+        "id": 473,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-boring-road-jee-2026",
+        "price": "34999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2024-11-19T10:53:06.000Z",
+        "start_at": "2025-01-15T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch - Boring Road  JEE 2026",
+        "image": {
+          "id": 1281,
+          "entity_id": 473,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/52495cc5-e5b4-4890-bbbb-baade8ab9320.jpg"
+        }
+      },
+      {
+        "id": 472,
+        "slug": "class-11th-to-12th-moving-offline-yearlong-bilingual-batch-boring-road-neet-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2024-11-19T10:53:08.000Z",
+        "start_at": "2025-01-15T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch - Boring Road NEET 2026",
+        "image": {
+          "id": 1280,
+          "entity_id": 472,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a809fae8-5da9-4d40-bfec-0f2749e7d98e.jpg"
+        }
+      },
+      {
+        "id": 471,
+        "slug": "neet-2025-offline-crash-course-bilingual-batch-boring-road",
+        "price": "12999",
+        "end_at": "2025-05-04T18:30:00.000Z",
+        "published_at": "2024-11-19T10:53:10.000Z",
+        "start_at": "2025-01-06T18:30:00.000Z",
+        "title": "NEET 2025 Offline Crash Course Bilingual Batch - Boring Road",
+        "image": {
+          "id": 1279,
+          "entity_id": 471,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4efbfcef-0a52-408e-a65f-2287b6240b0d.jpg"
+        }
+      },
+      {
+        "id": 470,
+        "slug": "upsc-answer-writing-free",
+        "price": "None",
+        "end_at": "2025-11-29T18:30:00.000Z",
+        "published_at": "2024-11-15T06:30:00.000Z",
+        "start_at": "2024-11-17T18:30:00.000Z",
+        "title": "UPSC Free Answer Writing Batch",
+        "image": {
+          "id": 1275,
+          "entity_id": 470,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/01fb00e3-1b04-4334-95a3-1d77a1be68d8.jpg"
+        }
+      },
+      {
+        "id": 469,
+        "slug": "english-foundation-batch-5",
+        "price": "499",
+        "end_at": "2025-11-29T18:30:00.000Z",
+        "published_at": "2024-11-14T06:30:00.000Z",
+        "start_at": "2024-11-25T18:30:00.000Z",
+        "title": "English Foundation Batch - 05 By Priyanshu Sir",
+        "image": {
+          "id": 1274,
+          "entity_id": 469,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9c7a2019-ca39-4aaf-a430-4d90dfa6e2ec.jpg"
+        }
+      },
+      {
+        "id": 468,
+        "slug": "class-11th-to-12th-moving-offline-bilingual-batch-prayagraj-jee-2026",
+        "price": "34999",
+        "end_at": "2026-05-14T18:30:00.000Z",
+        "published_at": "2024-11-12T11:39:02.000Z",
+        "start_at": "2025-01-15T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch - Prayagraj   JEE 2026",
+        "image": {
+          "id": 1266,
+          "entity_id": 468,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e9a4355f-f5cd-44ab-8cb5-6b9c3d294e62.jpg"
+        }
+      },
+      {
+        "id": 467,
+        "slug": "class-11th-to-12th-moving-offline-bilingual-batch-prayagraj-neet-2026",
+        "price": "34999",
+        "end_at": "2026-05-04T18:30:00.000Z",
+        "published_at": "2024-11-12T11:39:04.000Z",
+        "start_at": "2025-01-15T18:30:00.000Z",
+        "title": "Class 11th to 12th Moving Offline Yearlong Bilingual Batch-Prayagraj NEET 2026",
+        "image": {
+          "id": 1265,
+          "entity_id": 467,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9109cf6e-82ec-4cf4-8f90-f5619588e259.jpg"
+        }
+      },
+      {
+        "id": 466,
+        "slug": "neet-2025-offline-crash-course-bilingual-batch-prayagraj",
+        "price": "12999",
+        "end_at": "2025-05-04T18:30:00.000Z",
+        "published_at": "2024-11-12T11:39:05.000Z",
+        "start_at": "2025-01-06T18:30:00.000Z",
+        "title": "NEET 2025 Offline Crash Course Bilingual Batch - Prayagraj",
+        "image": {
+          "id": 1270,
+          "entity_id": 466,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/272173aa-a826-4f34-8048-c4cbc2e160cd.jpeg"
+        }
+      },
+      {
+        "id": 465,
+        "slug": "biology-foundation-recorded-ii",
+        "price": "200",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-11-18T11:21:59.000Z",
+        "start_at": "2024-11-17T18:30:00.000Z",
+        "title": "Biology Foundation (Recorded)",
+        "image": {
+          "id": 1269,
+          "entity_id": 465,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e3b81711-158e-4b82-abe9-be880a94e041.jpg"
+        }
+      },
+      {
+        "id": 464,
+        "slug": "world-map-recorded-ii",
+        "price": "200",
+        "end_at": "2026-03-30T18:30:00.000Z",
+        "published_at": "2024-11-18T11:22:02.000Z",
+        "start_at": "2024-11-17T18:30:00.000Z",
+        "title": "World Map (Recorded)",
+        "image": {
+          "id": 1268,
+          "entity_id": 464,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/815a04f9-9ce2-462b-a8c4-c35c33a8920a.jpg"
+        }
+      },
+      {
+        "id": 463,
+        "slug": "history-foundation-recorded-ii",
+        "price": "200",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-11-18T06:30:00.000Z",
+        "start_at": "2024-11-17T18:30:00.000Z",
+        "title": "History Foundation (Recorded)",
+        "image": {
+          "id": 1267,
+          "entity_id": 463,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8807b9d9-5f97-4a4c-875e-2a23bf6ced28.jpg"
+        }
+      },
+      {
+        "id": 460,
+        "slug": "gs-foundation-batch-2026-english-medium-offline-batch-6",
+        "price": "79500",
+        "end_at": "2026-11-17T18:30:00.000Z",
+        "published_at": "2024-11-11T03:10:11.000Z",
+        "start_at": "2024-12-22T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains) Foundation Programme 2026 English Medium (Offline Class) Karol Bagh",
+        "image": {
+          "id": 1261,
+          "entity_id": 460,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0fce7b8e-41a2-4a38-99fd-34fb893ab76c.webp"
+        }
+      },
+      {
+        "id": 459,
+        "slug": "mppsc-prelims-target-batch-2025",
+        "price": "999",
+        "end_at": "2025-02-19T18:30:00.000Z",
+        "published_at": "2024-10-31T06:30:00.000Z",
+        "start_at": "2024-11-10T18:30:00.000Z",
+        "title": "MPPSC Prelims Target Batch 2025",
+        "image": {
+          "id": 1258,
+          "entity_id": 459,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/88d1a8c1-4020-414e-8653-e2c5ba3766bc.jpeg"
+        }
+      },
+      {
+        "id": 458,
+        "slug": "upsc-csat-2025-hindi-medium-online",
+        "price": "1999",
+        "end_at": "2025-08-30T18:30:00.000Z",
+        "published_at": "2024-10-31T06:30:00.000Z",
+        "start_at": "2024-11-11T18:30:00.000Z",
+        "title": "UPSC CSAT 2025 Hindi Medium (Online)",
+        "image": {
+          "id": 1257,
+          "entity_id": 458,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cc624950-c319-4e14-b995-ae35d07464a2.jpeg"
+        }
+      },
+      {
+        "id": 457,
+        "slug": "upsc-csat-2025-english-medium-online",
+        "price": "1999",
+        "end_at": "2025-08-30T18:30:00.000Z",
+        "published_at": "2024-10-31T06:30:00.000Z",
+        "start_at": "2024-11-17T18:30:00.000Z",
+        "title": "UPSC CSAT 2025 English Medium (Online)",
+        "image": {
+          "id": 1256,
+          "entity_id": 457,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6b04145b-052b-484d-973a-85eda5455a08.jpeg"
+        }
+      },
+      {
+        "id": 454,
+        "slug": "up-psc-pre-mains-foundation-batch-2025-offline-prayagraj-iv",
+        "price": "27000",
+        "end_at": "2026-04-25T18:30:00.000Z",
+        "published_at": "2024-10-28T06:30:00.000Z",
+        "start_at": "2024-12-08T18:30:00.000Z",
+        "title": "UPSC & UPPSC (Pre+Mains) Foundation Batch 2025 (Offline Prayagraj)",
+        "image": {
+          "id": 1255,
+          "entity_id": 454,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/13b1ede8-fa1a-49d4-94b1-eab961c6dee6.webp"
+        }
+      },
+      {
+        "id": 453,
+        "slug": "history-optional-hindi-optional",
+        "price": "4999",
+        "end_at": "2025-08-30T18:30:00.000Z",
+        "published_at": "2024-10-24T06:30:00.000Z",
+        "start_at": "2024-11-11T18:30:00.000Z",
+        "title": "History Optional Hindi Medium",
+        "image": {
+          "id": 1253,
+          "entity_id": 453,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fdf3d426-1c0f-4b7e-ae9b-8e3d5d5d8e12.jpg"
+        }
+      },
+      {
+        "id": 452,
+        "slug": "sociology-optional-english-medium-batch",
+        "price": "4999",
+        "end_at": "2025-08-30T18:30:00.000Z",
+        "published_at": "2024-10-24T06:30:00.000Z",
+        "start_at": "2024-11-11T18:30:00.000Z",
+        "title": "Sociology Optional English Medium",
+        "image": {
+          "id": 1254,
+          "entity_id": 452,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ca8c7649-b61e-4fc0-991c-7fd2b9b8dc7a.jpg"
+        }
+      },
+      {
+        "id": 450,
+        "slug": "computer-foundation-by-abhishek-sachan-sir",
+        "price": "299",
+        "end_at": "2025-05-13T18:30:00.000Z",
+        "published_at": "2024-10-24T11:47:20.000Z",
+        "start_at": "2024-11-13T18:30:00.000Z",
+        "title": "Computer Foundation by Abhishek Sachan Sir",
+        "image": {
+          "id": 1250,
+          "entity_id": 450,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/31e60aa8-c967-4db6-ae9c-975ab498086e.jpg"
+        }
+      },
+      {
+        "id": 448,
+        "slug": "reasoning-special-by-yogendra-sir",
+        "price": "299",
+        "end_at": "2025-11-10T18:30:00.000Z",
+        "published_at": "2024-10-17T09:58:39.000Z",
+        "start_at": "2024-11-10T18:30:00.000Z",
+        "title": "Reasoning Special by Yogendra Sir",
+        "image": {
+          "id": 1248,
+          "entity_id": 448,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/7599f5d8-c6f6-4025-a978-86a8319439b2.jpg"
+        }
+      },
+      {
+        "id": 446,
+        "slug": "rrb-alp-cbt-1-2024-revision-and-practice-batch",
+        "price": "199",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-10-10T10:14:15.000Z",
+        "start_at": "2024-10-13T18:30:00.000Z",
+        "title": "RRB ALP CBT 1 & Technician 2024 Revision & Practice Batch",
+        "image": {
+          "id": 1244,
+          "entity_id": 446,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5fa0cb45-474c-44c8-9c62-ec81bc6b77c9.jpg"
+        }
+      },
+      {
+        "id": 445,
+        "slug": "uppsc-ro-aro-2024-crash-course",
+        "price": "499",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-10-10T10:14:18.000Z",
+        "start_at": "2024-10-14T18:30:00.000Z",
+        "title": "UPPSC RO/ARO-2024 Crash Course",
+        "image": {
+          "id": 1242,
+          "entity_id": 445,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a078bdb9-fd45-486f-bd41-7b4e656a9c67.jpg"
+        }
+      },
+      {
+        "id": 443,
+        "slug": "ssc-cgl-tier-2-practice-batch",
+        "price": "499",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-10-03T06:30:00.000Z",
+        "start_at": "2024-10-13T18:30:00.000Z",
+        "title": "SSC CGL Tier-2 Practice Batch",
+        "image": {
+          "id": 1233,
+          "entity_id": 443,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2845c290-8d1b-4f6a-b51c-2269cdae6bd9.jpg"
+        }
+      },
+      {
+        "id": 442,
+        "slug": "ncert-foundation-batch-english-medium",
+        "price": "1499",
+        "end_at": "2025-10-07T18:30:00.000Z",
+        "published_at": "2024-10-01T06:30:00.000Z",
+        "start_at": "2024-10-07T18:30:00.000Z",
+        "title": "NCERT Foundation Batch (English Medium)",
+        "image": {
+          "id": 1292,
+          "entity_id": 442,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ecc7de7a-aa7d-4cab-85fe-51b0180e71d8.jpg"
+        }
+      },
+      {
+        "id": 441,
+        "slug": "ncert-foundation-batch-hindi-medium",
+        "price": "1499",
+        "end_at": "2025-10-07T18:30:00.000Z",
+        "published_at": "2024-10-01T06:30:00.000Z",
+        "start_at": "2024-10-07T18:30:00.000Z",
+        "title": "NCERT Foundation Batch (Hindi Medium)",
+        "image": {
+          "id": 1293,
+          "entity_id": 441,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c72b2a71-8e1e-461a-9287-4fad72501244.jpg"
+        }
+      },
+      {
+        "id": 440,
+        "slug": "rrb-je-cbt-ii-electrical-batch",
+        "price": "499",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-10-01T06:30:00.000Z",
+        "start_at": "2024-10-06T18:30:00.000Z",
+        "title": "RRB JE CBT-II (Electrical) Batch 2.0",
+        "image": {
+          "id": 1230,
+          "entity_id": 440,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/577974cb-88fb-4cc5-a4b9-e6c9807c4ddf.jpg"
+        }
+      },
+      {
+        "id": 439,
+        "slug": "rrb-je-cbt-ii-mechanical-batch",
+        "price": "499",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-10-01T10:32:57.000Z",
+        "start_at": "2024-10-06T18:30:00.000Z",
+        "title": "RRB JE CBT-II (Mechanical) Batch 2.0",
+        "image": {
+          "id": 1229,
+          "entity_id": 439,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ac42483f-a3b8-469f-9de3-c9e48dcb8447.jpg"
+        }
+      },
+      {
+        "id": 438,
+        "slug": "rrb-je-cbt-ii-civil-batch",
+        "price": "499",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-10-01T10:32:59.000Z",
+        "start_at": "2024-10-06T18:30:00.000Z",
+        "title": "RRB JE CBT-II (Civil) Batch 2.0",
+        "image": {
+          "id": 1228,
+          "entity_id": 438,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4bf8ff97-57ec-4d03-97d9-955995fe30b7.jpg"
+        }
+      },
+      {
+        "id": 437,
+        "slug": "ssc-chsl-2.0-tier-1-2-foundation-batch-2024-25",
+        "price": "699",
+        "end_at": "2025-10-06T18:30:00.000Z",
+        "published_at": "2024-09-19T02:56:58.000Z",
+        "start_at": "2024-10-06T18:30:00.000Z",
+        "title": "SSC CHSL 2.0 Tier 1 & 2 Foundation Batch 2024-25",
+        "image": {
+          "id": 1209,
+          "entity_id": 437,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/dcbef4e1-719d-4428-81f8-301058cc7f4c.png"
+        }
+      },
+      {
+        "id": 436,
+        "slug": "class-10th-board-hindi-medium-prarambh-batch",
+        "price": "None",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-09-17T06:30:00.000Z",
+        "start_at": "2024-09-15T18:30:00.000Z",
+        "title": "Class 10th Board Hindi Medium Prarambh Batch",
+        "image": {
+          "id": 1206,
+          "entity_id": 436,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/445d56fd-e9c9-407d-b248-950577a328d8.jpg"
+        }
+      },
+      {
+        "id": 435,
+        "slug": "class-10th -board-english-medium-prarambh-science-batch",
+        "price": "None",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-09-17T06:30:00.000Z",
+        "start_at": "2024-09-15T18:30:00.000Z",
+        "title": "Class 10th Board English Medium Prarambh Batch",
+        "image": {
+          "id": 1205,
+          "entity_id": 435,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/40928cd5-24bd-4c3a-9b18-c4205b9bb2d0.jpg"
+        }
+      },
+      {
+        "id": 434,
+        "slug": "mission-net-jrf-hindi-crash-course",
+        "price": "399",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-22T18:30:00.000Z",
+        "title": "Mission NET/JRF Hindi Crash Course",
+        "image": {
+          "id": 1192,
+          "entity_id": 434,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b57fae66-9826-475e-a123-03d3ba708569.jpg"
+        }
+      },
+      {
+        "id": 433,
+        "slug": "mission-net-jrf-political-science-crash-course",
+        "price": "399",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-22T18:30:00.000Z",
+        "title": "Mission NET/JRF Political Science Crash Course",
+        "image": {
+          "id": 1193,
+          "entity_id": 433,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5bd09a9d-fc24-47d2-bf9c-c546d2b6c3dd.jpg"
+        }
+      },
+      {
+        "id": 432,
+        "slug": "mission-net-jrf-geography-crash-course",
+        "price": "399",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-22T18:30:00.000Z",
+        "title": "Mission NET/JRF Geography Crash Course",
+        "image": {
+          "id": 1194,
+          "entity_id": 432,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/84212e9a-834e-4fee-9df2-9dcfabe81c81.jpg"
+        }
+      },
+      {
+        "id": 431,
+        "slug": "mission-net-jrf-commerce-crash-course",
+        "price": "399",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-22T18:30:00.000Z",
+        "title": "Mission NET/JRF Commerce Crash Course",
+        "image": {
+          "id": 1195,
+          "entity_id": 431,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0748ac9c-259b-4e51-906b-e86485a0507a.jpg"
+        }
+      },
+      {
+        "id": 430,
+        "slug": "mission-net-jrf-history-crash-course",
+        "price": "399",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-22T18:30:00.000Z",
+        "title": "Mission NET/JRF History Crash Course",
+        "image": {
+          "id": 1196,
+          "entity_id": 430,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/abf5d8d9-8d31-4ca3-b1ae-7e6fce0c77ee.jpg"
+        }
+      },
+      {
+        "id": 429,
+        "slug": "bpsc-70-th-prelims-revision-batch-bilingual",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-16T10:30:00.000Z",
+        "start_at": "2024-09-16T18:30:00.000Z",
+        "title": "70th BPSC Prelims Revision Batch Bilingual",
+        "image": {
+          "id": 1187,
+          "entity_id": 429,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fc521206-b6e2-4e0c-a3ed-7e0542ba06c3.jpeg"
+        }
+      },
+      {
+        "id": 426,
+        "slug": "rrb-ntpc-cbt-01-and-02-batch",
+        "price": "799",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-09-11T20:30:00.000Z",
+        "start_at": "2024-09-18T18:30:00.000Z",
+        "title": "RRB NTPC (CBT 01 & 02) Batch",
+        "image": {
+          "id": 1227,
+          "entity_id": 426,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/64db63ac-f9c2-4c2f-b14f-3c440bda45a5.jpeg"
+        }
+      },
+      {
+        "id": 423,
+        "slug": "up-si-daroga-foundation-batch",
+        "price": "999",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-09-10T10:02:26.000Z",
+        "start_at": "2024-09-18T18:30:00.000Z",
+        "title": "UP SI Daroga Foundation Batch",
+        "image": {
+          "id": 1176,
+          "entity_id": 423,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1b677f6c-8a9a-4ed6-b69c-c5fd8b7c4784.jpg"
+        }
+      },
+      {
+        "id": 422,
+        "slug": "up-si-daroga-mulvidhi-batch",
+        "price": "199",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-09-10T10:02:38.000Z",
+        "start_at": "2024-09-18T18:30:00.000Z",
+        "title": "UP SI Daroga मूलविधि Batch",
+        "image": {
+          "id": 1174,
+          "entity_id": 422,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b55c2fe3-7c38-4710-ba38-3fd1f859a94a.jpg"
+        }
+      },
+      {
+        "id": 421,
+        "slug": "class-12th-board-hindi-medium-aarambh-science-batch",
+        "price": "None",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-09-09T06:30:00.000Z",
+        "start_at": "2024-09-09T18:30:00.000Z",
+        "title": "Class 12th Board Hindi Medium Aarambh Science Batch",
+        "image": {
+          "id": 1173,
+          "entity_id": 421,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/763f41f4-def4-4708-8426-8c81018b698e.jpg"
+        }
+      },
+      {
+        "id": 420,
+        "slug": "class-12th-board-english-medium-aarambh-science-batch",
+        "price": "None",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-09-09T06:30:00.000Z",
+        "start_at": "2024-09-09T18:30:00.000Z",
+        "title": "Class 12th Board English Medium Aarambh Science Batch",
+        "image": {
+          "id": 1172,
+          "entity_id": 420,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/be289d84-3a17-4142-ad93-2541b32ead0e.jpg"
+        }
+      },
+      {
+        "id": 419,
+        "slug": "bpsc-70-th-prelims-revision-batch",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-09-06T06:30:00.000Z",
+        "start_at": "2024-09-16T18:30:00.000Z",
+        "title": "70th BPSC Prelims Revision Batch",
+        "image": {
+          "id": 1185,
+          "entity_id": 419,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a30592bd-02b6-413a-8c41-14efc05c72c8.jpeg"
+        }
+      },
+      {
+        "id": 418,
+        "slug": "ncert-complete-geography-by-shubham-gupta-sir",
+        "price": "299",
+        "end_at": "2025-09-11T18:30:00.000Z",
+        "published_at": "2024-09-05T06:30:00.000Z",
+        "start_at": "2024-09-11T18:30:00.000Z",
+        "title": "NCERT Geography by Shubham Gupta Sir",
+        "image": {
+          "id": 1170,
+          "entity_id": 418,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/afe9da6f-6090-4cb4-929b-6a1184b26146.jpg"
+        }
+      },
+      {
+        "id": 417,
+        "slug": "ras-pre-mains-foundation-batch-2025",
+        "price": "4500",
+        "end_at": "2026-03-23T18:30:00.000Z",
+        "published_at": "2024-09-05T10:17:14.000Z",
+        "start_at": "2024-09-23T18:30:00.000Z",
+        "title": "RAS (Pre+Mains) Foundation Batch 2025",
+        "image": {
+          "id": 1236,
+          "entity_id": 417,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cc85fbce-5897-4be0-aa34-a36f1f354694.jpg"
+        }
+      },
+      {
+        "id": 416,
+        "slug": "ctet-dec-2024-foundation-batch",
+        "price": "799",
+        "end_at": "2025-01-09T18:30:00.000Z",
+        "published_at": "2024-09-04T23:57:39.000Z",
+        "start_at": "2024-09-16T18:30:00.000Z",
+        "title": "CTET Dec 2024 Foundation Batch",
+        "image": {
+          "id": 1166,
+          "entity_id": 416,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ceeea778-a8a1-422e-b677-f2edd41c7c0f.jpg"
+        }
+      },
+      {
+        "id": 415,
+        "slug": "hindi-literature-optional-ii",
+        "price": "4999",
+        "end_at": "2025-10-30T18:30:00.000Z",
+        "published_at": "2024-09-03T09:02:44.000Z",
+        "start_at": "2024-09-09T18:30:00.000Z",
+        "title": "Hindi Literature Optional",
+        "image": {
+          "id": 1159,
+          "entity_id": 415,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/df856892-c3a9-4ac4-a44e-9114479aaccf.jpg"
+        }
+      },
+      {
+        "id": 414,
+        "slug": "bihar-daroga-pt-mains-physical-test-2024-ii",
+        "price": "999",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-08-29T06:30:00.000Z",
+        "start_at": "2024-09-04T18:30:00.000Z",
+        "title": "Bihar Daroga (PT + Mains + Physical Test) Batch-II 2024",
+        "image": {
+          "id": 1146,
+          "entity_id": 414,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/74322cca-7b90-4374-a9d6-443c0c33cc20.png"
+        }
+      },
+      {
+        "id": 413,
+        "slug": "mission-sbi-po-pre-mains-2024-25-batch",
+        "price": "799",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-08-29T08:27:49.000Z",
+        "start_at": "2024-09-16T18:30:00.000Z",
+        "title": "Mission SBI PO (Pre + Mains) 2024-25 Batch",
+        "image": {
+          "id": 1160,
+          "entity_id": 413,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/46afacf7-dae1-410e-9d49-df05237bb966.jpg"
+        }
+      },
+      {
+        "id": 411,
+        "slug": "bpsc-batch-on-line-pt-mains-essay-71-2",
+        "price": "4500",
+        "end_at": "2026-03-11T18:30:00.000Z",
+        "published_at": "2024-08-24T12:03:55.000Z",
+        "start_at": "2024-09-23T18:30:00.000Z",
+        "title": "71st BPSC on-line (P.T + Mains+Interview) Batch-II",
+        "image": {
+          "id": 1178,
+          "entity_id": 411,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1b510c65-0eae-4ba8-8e29-7cc55b82de6d.jpg"
+        }
+      },
+      {
+        "id": 410,
+        "slug": "gs-foundation-batch-2026-english-medium-offline-batch-5",
+        "price": "79500",
+        "end_at": "2026-09-23T18:30:00.000Z",
+        "published_at": "2024-08-24T12:03:57.000Z",
+        "start_at": "2024-09-23T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains) Foundation Programme 2026 English Medium (Offline Class) Karol Bagh",
+        "image": {
+          "id": 1147,
+          "entity_id": 410,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1857d939-9ae1-4445-9944-1c0b39b28ded.png"
+        }
+      },
+      {
+        "id": 409,
+        "slug": "physics-foundation-2024",
+        "price": "300",
+        "end_at": "2025-07-04T18:30:00.000Z",
+        "published_at": "2024-08-23T06:30:00.000Z",
+        "start_at": "2024-09-04T18:30:00.000Z",
+        "title": "Physics Foundation 2024 by Khan Sir",
+        "image": {
+          "id": 1137,
+          "entity_id": 409,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cc79befb-fb41-4bfb-8641-457907e3ae56.jpg"
+        }
+      },
+      {
+        "id": 408,
+        "slug": "indian-map-2024-by-khan-sir",
+        "price": "200",
+        "end_at": "2025-05-04T18:30:00.000Z",
+        "published_at": "2024-08-23T06:30:00.000Z",
+        "start_at": "2024-09-04T18:30:00.000Z",
+        "title": "Indian Map 2024 by Khan Sir",
+        "image": {
+          "id": 1136,
+          "entity_id": 408,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d5af9667-758f-436b-97eb-3c5bdc769874.jpg"
+        }
+      },
+      {
+        "id": 407,
+        "slug": "upsc-pre-mains-foundation-batch-2026-english-medium",
+        "price": "10000",
+        "end_at": "2026-09-09T18:30:00.000Z",
+        "published_at": "2024-08-22T06:30:00.000Z",
+        "start_at": "2024-09-24T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2026 (English Medium)",
+        "image": {
+          "id": 1207,
+          "entity_id": 407,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2151ad53-4553-47b8-9f01-02b31fd1c4e7.jpg"
+        }
+      },
+      {
+        "id": 406,
+        "slug": "upsc-pre-mains-foundation-batch-2026-hindi-medium",
+        "price": "10000",
+        "end_at": "2026-09-09T18:30:00.000Z",
+        "published_at": "2024-08-22T06:30:00.000Z",
+        "start_at": "2024-09-15T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2026 (Hindi Medium)",
+        "image": {
+          "id": 1171,
+          "entity_id": 406,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b4055760-9313-4a64-b55b-f5784001f48b.jpg"
+        }
+      },
+      {
+        "id": 405,
+        "slug": "cds-01-2025-target-batch",
+        "price": "1499",
+        "end_at": "2025-09-08T18:30:00.000Z",
+        "published_at": "2024-08-22T11:08:58.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "CDS-01 2025 Target Batch",
+        "image": {
+          "id": 1130,
+          "entity_id": 405,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f47e5bda-159e-4c87-89fe-bf0ede52329f.jpg"
+        }
+      },
+      {
+        "id": 404,
+        "slug": "nda-01-2025-target-batch",
+        "price": "1499",
+        "end_at": "2025-09-08T18:30:00.000Z",
+        "published_at": "2024-08-22T11:08:56.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "NDA-01 2025 Target Batch",
+        "image": {
+          "id": 1129,
+          "entity_id": 404,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d630fa5f-ec16-4af2-9277-fffd8a50b3da.jpg"
+        }
+      },
+      {
+        "id": 403,
+        "slug": "neet-mission-200-days-batch-hindi-medium",
+        "price": "999",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-08-20T06:30:00.000Z",
+        "start_at": "2024-09-04T18:30:00.000Z",
+        "title": "NEET 2025 Mission 200 Days Batch Hindi Medium",
+        "image": {
+          "id": 1125,
+          "entity_id": 403,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/bf240c84-684b-41a1-b89e-a6cb248b9575.jpg"
+        }
+      },
+      {
+        "id": 402,
+        "slug": "neet-2025-physics-ma-hindi-medium",
+        "price": "399",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-08-20T06:30:00.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "NEET 2025 Physics By Mohit Agarwal Sir (Hindi Medium)",
+        "image": {
+          "id": 1157,
+          "entity_id": 402,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/300b18a3-113a-4e11-9536-ca922a6f6cb9.jpg"
+        }
+      },
+      {
+        "id": 401,
+        "slug": "cds-target-batch-dehradun-offline",
+        "price": "40000",
+        "end_at": "2025-09-08T18:30:00.000Z",
+        "published_at": "2024-08-13T06:30:00.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "CDS Target Batch (Dehradun Offline)",
+        "image": {
+          "id": 1123,
+          "entity_id": 401,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c6bf9286-7c0b-4a09-8959-4c40a5b0f787.jpg"
+        }
+      },
+      {
+        "id": 400,
+        "slug": "nda-target-batch-dehradun-offline",
+        "price": "40000",
+        "end_at": "2025-09-08T18:30:00.000Z",
+        "published_at": "2024-08-13T06:30:00.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "NDA Target Batch (Dehradun Offline)",
+        "image": {
+          "id": 1122,
+          "entity_id": 400,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a416bb6f-72a2-4374-96df-04cdc54beddf.jpg"
+        }
+      },
+      {
+        "id": 399,
+        "slug": "cds-01-2025-target-batch-dehradun-offline",
+        "price": "25000",
+        "end_at": "2025-04-08T18:30:00.000Z",
+        "published_at": "2024-08-13T06:30:00.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "CDS-01 2025 Target Batch (Dehradun Offline)",
+        "image": {
+          "id": 1121,
+          "entity_id": 399,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ef959ec9-5e67-4738-9d7c-c4ab499b327a.jpg"
+        }
+      },
+      {
+        "id": 398,
+        "slug": "nda-01-2025-target-batch-dehradun-offline",
+        "price": "25000",
+        "end_at": "2025-04-08T18:30:00.000Z",
+        "published_at": "2024-08-13T06:30:00.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "NDA-01 2025 Target Batch (Dehradun Offline)",
+        "image": {
+          "id": 1120,
+          "entity_id": 398,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e8b4277e-04d1-4d71-9bf4-2c2ab7afa635.jpg"
+        }
+      },
+      {
+        "id": 397,
+        "slug": "ssc-gd-foundation-2024-25",
+        "price": "499",
+        "end_at": "2025-05-27T18:30:00.000Z",
+        "published_at": "2024-08-13T06:30:00.000Z",
+        "start_at": "2024-08-27T18:30:00.000Z",
+        "title": "SSC GD Foundation 2024-25",
+        "image": {
+          "id": 1119,
+          "entity_id": 397,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/bf0dc541-f298-4776-879d-bac118063072.png"
+        }
+      },
+      {
+        "id": 396,
+        "slug": "gs-foundation-batch-2026-hindi-medium-offline-batch-7",
+        "price": "69500",
+        "end_at": "2026-09-16T18:30:00.000Z",
+        "published_at": "2024-08-09T06:30:00.000Z",
+        "start_at": "2024-12-22T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग्राम 2026 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
+        "image": {
+          "id": 1144,
+          "entity_id": 396,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9ad666df-6611-40d3-bb85-7b72485fcd5d.png"
+        }
+      },
+      {
+        "id": 395,
+        "slug": "prelims-bpsc-series-2024",
+        "price": "None",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-08-09T06:30:00.000Z",
+        "start_at": "2024-08-09T18:30:00.000Z",
+        "title": "संयोजन Series 70th BPSC Prelims",
+        "image": {
+          "id": 1117,
+          "entity_id": 395,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/21d96e06-3970-45e6-8bfd-15855aa41fc8.jpg"
+        }
+      },
+      {
+        "id": 394,
+        "slug": "repeater-yearlong-boring-road-patna-batch-neet-2025",
+        "price": "30000",
+        "end_at": "2025-05-11T18:30:00.000Z",
+        "published_at": "2024-08-06T06:30:00.000Z",
+        "start_at": "2024-08-28T18:30:00.000Z",
+        "title": "Repeater Yearlong Boring Road (Patna) Offline Bilingual Batch NEET 2025",
+        "image": {
+          "id": 1272,
+          "entity_id": 394,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9be51cce-4a39-41a8-94b8-b95ed826c757.jpg"
+        }
+      },
+      {
+        "id": 393,
+        "slug": "neet-mission-225-days-batch-english-medium",
+        "price": "1099",
+        "end_at": "2025-05-29T18:30:00.000Z",
+        "published_at": "2024-08-06T13:00:06.000Z",
+        "start_at": "2024-09-04T18:30:00.000Z",
+        "title": "NEET 2025 Mission 200 Days Batch English Medium",
+        "image": {
+          "id": 1128,
+          "entity_id": 393,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4f950bd9-c58b-4c90-a800-014e32f0ca8a.jpg"
+        }
+      },
+      {
+        "id": 392,
+        "slug": "neet-2025-physics-by-dsp-sir-english-medium",
+        "price": "399",
+        "end_at": "2025-07-09T18:30:00.000Z",
+        "published_at": "2024-08-06T12:58:20.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "NEET 2025 Physics By DSP Sir (English Medium)",
+        "image": {
+          "id": 1127,
+          "entity_id": 392,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/64501c06-c600-4446-a812-e567d481f5ce.jpg"
+        }
+      },
+      {
+        "id": 391,
+        "slug": "classroom-off-Line-71st-bpsc-batch 2024-boring-road-ii",
+        "price": "20000",
+        "end_at": "2026-03-11T18:30:00.000Z",
+        "published_at": "2024-08-06T08:36:21.000Z",
+        "start_at": "2024-09-23T18:30:00.000Z",
+        "title": "Classroom off-Line 71st BPSC Batch-II (Boring Road)",
+        "image": {
+          "id": 1179,
+          "entity_id": 391,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a10fd694-64fe-489f-80ea-9daa3611bf5b.jpg"
+        }
+      },
+      {
+        "id": 390,
+        "slug": "capf-ac-2025",
+        "price": "1499",
+        "end_at": "2025-09-09T18:30:00.000Z",
+        "published_at": "2024-07-30T06:30:00.000Z",
+        "start_at": "2024-09-09T18:30:00.000Z",
+        "title": "CAPF AC Foundation Batch 2025",
+        "image": {
+          "id": 1086,
+          "entity_id": 390,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/dd84da72-b79f-4654-b142-bb191bb44a9b.png"
+        }
+      },
+      {
+        "id": 388,
+        "slug": "rrb-je-cbt-i-batch-2024",
+        "price": "499",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-07-25T06:30:00.000Z",
+        "start_at": "2024-07-31T18:30:00.000Z",
+        "title": "RRB JE CBT-1 Batch 2024",
+        "image": {
+          "id": 1071,
+          "entity_id": 388,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8e4d124b-d584-4810-866e-75a1b9181b70.jpg"
+        }
+      },
+      {
+        "id": 387,
+        "slug": "rrb-je-cbt-i-ii-civil-mechanical-batch-2024",
+        "price": "799",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-07-25T06:30:00.000Z",
+        "start_at": "2024-07-31T18:30:00.000Z",
+        "title": "RRB JE CBT (I+II) Civil Engineering Batch 2024",
+        "image": {
+          "id": 1070,
+          "entity_id": 387,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6c8f8fc4-015e-40be-a2bc-4852a3dff464.jpg"
+        }
+      },
+      {
+        "id": 386,
+        "slug": "rrb-je-cbt-i-ii-mechanical-batch-2024",
+        "price": "799",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-07-25T06:30:00.000Z",
+        "start_at": "2024-07-31T18:30:00.000Z",
+        "title": "RRB JE CBT (I+II) Mechanical Engineering Batch 2024",
+        "image": {
+          "id": 1069,
+          "entity_id": 386,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/17564101-fc1a-48cb-9c38-a8eb45038f99.jpg"
+        }
+      },
+      {
+        "id": 385,
+        "slug": "rrb-je-cbt-i-ii-electrical-engineering-batch-2024",
+        "price": "799",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-07-25T06:30:00.000Z",
+        "start_at": "2024-07-31T18:30:00.000Z",
+        "title": "RRB JE CBT (I+II) Electrical Engineering Batch 2024",
+        "image": {
+          "id": 1072,
+          "entity_id": 385,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/61245b00-4a20-4dbd-a0cc-4ab63f745f8c.jpg"
+        }
+      },
+      {
+        "id": 384,
+        "slug": "ranker-batch-boring-road-patna-offline-bilingual-neet-2024",
+        "price": "30000",
+        "end_at": "2025-06-29T18:30:00.000Z",
+        "published_at": "2024-07-23T06:30:00.000Z",
+        "start_at": "2024-08-28T18:30:00.000Z",
+        "title": "Ranker's Batch Boring Road Patna Offline Bilingual NEET 2025",
+        "image": {
+          "id": 1065,
+          "entity_id": 384,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ece1b53b-da68-4091-b747-8ae92aa9bdce.jpg"
+        }
+      },
+      {
+        "id": 383,
+        "slug": "maths-foundation-by-pk-sir-25",
+        "price": "650",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2024-07-23T06:30:00.000Z",
+        "start_at": "2024-07-29T18:30:00.000Z",
+        "title": "Maths Foundation 2024-25 by P.K Sir",
+        "image": {
+          "id": 1153,
+          "entity_id": 383,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f53a2cda-46ee-43ae-b1bd-18cd359c0ca1.jpg"
+        }
+      },
+      {
+        "id": 382,
+        "slug": "up-psc-pre-mains-foundation-batch-2025-offline-prayagraj-iii",
+        "price": "27000",
+        "end_at": "2026-02-19T18:30:00.000Z",
+        "published_at": "2024-07-23T09:34:56.000Z",
+        "start_at": "2024-09-08T18:30:00.000Z",
+        "title": "UPSC & UPPSC (Pre+Mains) Foundation Batch 2025 (Offline Prayagraj)",
+        "image": {
+          "id": 1064,
+          "entity_id": 382,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/90e455b0-5360-45fe-88f9-546b42fcdd1e.png"
+        }
+      },
+      {
+        "id": 381,
+        "slug": "ibps-mains-practice-batch-2024",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-07-23T09:34:58.000Z",
+        "start_at": "2024-08-04T18:30:00.000Z",
+        "title": "IBPS Mains Practice Batch 2024",
+        "image": {
+          "id": 1102,
+          "entity_id": 381,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/bb596c1d-8e61-45a0-9745-d1756ccef612.jpg"
+        }
+      },
+      {
+        "id": 380,
+        "slug": "upsc-csat-2025-hindi-medium-offline-batch-3",
+        "price": "3500",
+        "end_at": "2025-01-22T18:30:00.000Z",
+        "published_at": "2024-07-19T08:06:49.000Z",
+        "start_at": "2024-07-22T18:30:00.000Z",
+        "title": "UPSC CSAT 2025 Hindi Medium (Offline-Prayagraj)",
+        "image": {
+          "id": 1058,
+          "entity_id": 380,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/eac0fdf6-f2d9-494e-9705-74e39f3c181d.jpg"
+        }
+      },
+      {
+        "id": 379,
+        "slug": "upsc-csat-2025-hindi-medium-online-batch-iii",
+        "price": "1599",
+        "end_at": "2025-01-22T18:30:00.000Z",
+        "published_at": "2024-07-19T08:06:52.000Z",
+        "start_at": "2024-07-22T18:30:00.000Z",
+        "title": "UPSC CSAT 2025 Hindi Medium (Online)",
+        "image": {
+          "id": 1057,
+          "entity_id": 379,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c1b6cde6-7d89-4068-8977-308d8ba3b4dc.jpg"
+        }
+      },
+      {
+        "id": 378,
+        "slug": "mp-psc-foundation-prelims-and-mains-2025",
+        "price": "4500",
+        "end_at": "2026-01-28T18:30:00.000Z",
+        "published_at": "2024-07-18T06:30:00.000Z",
+        "start_at": "2024-07-28T18:30:00.000Z",
+        "title": "MPPSC Foundation (Prelims + Mains) Batch 2025",
+        "image": {
+          "id": 1053,
+          "entity_id": 378,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b19f6991-1f69-44f2-b0fa-f503e61effb0.jpg"
+        }
+      },
+      {
+        "id": 377,
+        "slug": "special-batch-by-shubham-gupta-sir",
+        "price": "499",
+        "end_at": "2025-07-28T18:30:00.000Z",
+        "published_at": "2024-07-16T06:30:00.000Z",
+        "start_at": "2024-07-28T18:30:00.000Z",
+        "title": "Special Batch By Shubham Gupta Sir",
+        "image": {
+          "id": 1052,
+          "entity_id": 377,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9f9bed32-645f-4501-818d-94a4405a26f1.jpg"
+        }
+      },
+      {
+        "id": 375,
+        "slug": "mptet-target-batch",
+        "price": "249",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-07-09T07:49:46.000Z",
+        "start_at": "2024-07-15T18:30:00.000Z",
+        "title": "MPTET वर्ग Target Batch",
+        "image": {
+          "id": 1041,
+          "entity_id": 375,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2df04b00-e60c-4699-ab99-0d826a7ed337.jpg"
+        }
+      },
+      {
+        "id": 373,
+        "slug": "neet-mission-250-days-batch-english-medium",
+        "price": "1299",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-07-04T06:30:00.000Z",
+        "start_at": "2024-07-24T18:30:00.000Z",
+        "title": "NEET 2025 Mission 250 Days Batch English Medium",
+        "image": {
+          "id": 1126,
+          "entity_id": 373,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6cc38fad-336a-4a95-b106-d37b73d5fc8a.jpg"
+        }
+      },
+      {
+        "id": 372,
+        "slug": "geography-optional-english-medium",
+        "price": "4999",
+        "end_at": "2025-10-30T18:30:00.000Z",
+        "published_at": "2024-07-02T11:03:39.000Z",
+        "start_at": "2024-07-25T18:30:00.000Z",
+        "title": "Geography Optional English Medium",
+        "image": {
+          "id": 1026,
+          "entity_id": 372,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0a3508b6-1137-43b8-b78d-a42d4408aca0.jpg"
+        }
+      },
+      {
+        "id": 371,
+        "slug": "hindi-foundation-batch-2024",
+        "price": "399",
+        "end_at": "2025-07-08T18:30:00.000Z",
+        "published_at": "2024-07-02T11:03:41.000Z",
+        "start_at": "2024-07-08T18:30:00.000Z",
+        "title": "Hindi Foundation Batch 2024",
+        "image": {
+          "id": 1029,
+          "entity_id": 371,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f63d205d-7f13-42a8-b574-9a236c896996.jpg"
+        }
+      },
+      {
+        "id": 369,
+        "slug": "gs-foundation-batch-2024-25-english-medium-offline-batch-4",
+        "price": "79500",
+        "end_at": "2026-07-23T18:30:00.000Z",
+        "published_at": "2024-06-27T08:57:05.000Z",
+        "start_at": "2024-07-24T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains) Foundation Programme 2025 English Medium (Offline Class) Karol Bagh",
+        "image": {
+          "id": 1023,
+          "entity_id": 369,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ef15cc90-4914-4ff7-b04a-dbae9454ddb6.jpeg"
+        }
+      },
+      {
+        "id": 367,
+        "slug": "sociology-optional-hindi-medium-batch-6",
+        "price": "4999",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2024-06-25T11:41:03.000Z",
+        "start_at": "2024-07-01T18:30:00.000Z",
+        "title": "Sociology Optional Hindi Medium",
+        "image": {
+          "id": 1006,
+          "entity_id": 367,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/02a00449-bba8-4778-87c8-500b3846aaba.jpg"
+        }
+      },
+      {
+        "id": 366,
+        "slug": "maths-optional-bilingual-batch-4",
+        "price": "4999",
+        "end_at": "2025-09-29T18:30:00.000Z",
+        "published_at": "2024-06-25T10:35:42.000Z",
+        "start_at": "2024-07-21T18:30:00.000Z",
+        "title": "Maths Optional Bilingual",
+        "image": {
+          "id": 1005,
+          "entity_id": 366,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5ffed7d8-acdd-4b3d-ac7d-056ba69f7493.jpg"
+        }
+      },
+      {
+        "id": 365,
+        "slug": "polity-foundation-by-khan-sir",
+        "price": "300",
+        "end_at": "2025-02-08T18:30:00.000Z",
+        "published_at": "2024-06-25T08:37:32.000Z",
+        "start_at": "2024-07-22T18:30:00.000Z",
+        "title": "Polity Foundation by Khan Sir",
+        "image": {
+          "id": 1040,
+          "entity_id": 365,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/ddbed53f-9c51-4b5f-9dd7-983ed3577c48.jpg"
+        }
+      },
+      {
+        "id": 364,
+        "slug": "geography-foundation-by-khan-sir",
+        "price": "300",
+        "end_at": "2025-02-08T18:30:00.000Z",
+        "published_at": "2024-06-25T08:37:35.000Z",
+        "start_at": "2024-07-03T18:30:00.000Z",
+        "title": "Geography Foundation by Khan Sir",
+        "image": {
+          "id": 1003,
+          "entity_id": 364,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8a6f327c-e121-48a7-89fb-ad134126b649.jpg"
+        }
+      },
+      {
+        "id": 363,
+        "slug": "current-affairs-upsc-and-state-psc-2024-25-batch-hindi-medium",
+        "price": "365",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2024-06-20T06:30:00.000Z",
+        "start_at": "2024-07-08T18:30:00.000Z",
+        "title": "Current Affairs (UPSC & State PSC) Batch 2024-25 (Hindi Medium)",
+        "image": {
+          "id": 996,
+          "entity_id": 363,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0c7e40e8-12d6-4e60-8d6e-8e4c28de93f5.jpeg"
+        }
+      },
+      {
+        "id": 361,
+        "slug": "current-affairs-upsc-and-state-psc-2024-25-batch-english-medium",
+        "price": "365",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2024-06-20T06:30:00.000Z",
+        "start_at": "2024-07-08T18:30:00.000Z",
+        "title": "Current Affairs (UPSC & State PSC) Batch 2024-25 (English Medium)",
+        "image": {
+          "id": 992,
+          "entity_id": 361,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1d73595f-d282-4231-be13-3c663213d58d.jpg"
+        }
+      },
+      {
+        "id": 360,
+        "slug": "mathematics-foundation-batch-by-bharat-gupta-sir",
+        "price": "199",
+        "end_at": "2025-07-15T18:30:00.000Z",
+        "published_at": "2024-06-20T06:30:00.000Z",
+        "start_at": "2024-07-15T18:30:00.000Z",
+        "title": "Mathematics Foundation Batch by Bharat Gupta Sir",
+        "image": {
+          "id": 998,
+          "entity_id": 360,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5aa4a3ac-3e74-4a33-8af1-0e42f6ccdc1a.jpg"
+        }
+      },
+      {
+        "id": 357,
+        "slug": "ugc-net-jrf-paper-2-political-science-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T12:09:10.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) POLITICAL SCIENCE Foundation Batch 2024",
+        "image": {
+          "id": 924,
+          "entity_id": 357,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c4f28e75-a6ce-4124-997b-d2caa0f44529.jpg"
+        }
+      },
+      {
+        "id": 356,
+        "slug": "ugc-net-jrf-paper-2-commerce-foundation-batch",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T12:09:12.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) COMMERCE Foundation Batch 2024",
+        "image": {
+          "id": 923,
+          "entity_id": 356,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/667a3eb5-cfc9-4076-b463-e79d2195268a.jpg"
+        }
+      },
+      {
+        "id": 355,
+        "slug": "ugc-net-jrf-paper-2-history-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T12:09:14.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) HISTORY Foundation Batch 2024",
+        "image": {
+          "id": 922,
+          "entity_id": 355,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/12c5b91b-75fc-4ec9-8bb6-11ad21b63479.jpeg"
+        }
+      },
+      {
+        "id": 354,
+        "slug": "ugc-net-jrf-paper-2-english-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T12:08:34.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) ENGLISH Foundation Batch 2024",
+        "image": {
+          "id": 933,
+          "entity_id": 354,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/4f553398-8d55-4301-9186-b3ce805b79fd.jpeg"
+        }
+      },
+      {
+        "id": 353,
+        "slug": "ugc-net-jrf-paper-2-hindi-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T06:30:00.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) HINDI Foundation Batch 2024",
+        "image": {
+          "id": 927,
+          "entity_id": 353,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/69c0df59-db02-40a9-8782-412b6532985c.jpg"
+        }
+      },
+      {
+        "id": 352,
+        "slug": "ugc-net-jrf-paper-2-geography-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T12:08:36.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-2) GEOGRAPHY Foundation Batch 2024",
+        "image": {
+          "id": 919,
+          "entity_id": 352,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fd0d7a76-322e-4768-98d1-3f65046e610c.jpg"
+        }
+      },
+      {
+        "id": 351,
+        "slug": "ugc-net-jrf-paper-1-foundation-batch-2024",
+        "price": "499",
+        "end_at": "2025-06-19T18:30:00.000Z",
+        "published_at": "2024-06-11T06:30:00.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "UGC NET/JRF (Paper-1) Foundation Batch 2024",
+        "image": {
+          "id": 925,
+          "entity_id": 351,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c43af89e-16df-418e-b455-9bc8760f9760.jpeg"
+        }
+      },
+      {
+        "id": 350,
+        "slug": "upsc-foundation-offline-batch-br",
+        "price": "35000",
+        "end_at": "2026-05-30T18:30:00.000Z",
+        "published_at": "2024-06-09T06:30:00.000Z",
+        "start_at": "2024-07-24T18:30:00.000Z",
+        "title": "UPSC Foundation Offline Batch - 2025 (Boring Road)",
+        "image": {
+          "id": 957,
+          "entity_id": 350,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/7cf4b250-52ca-4d4b-9237-eeefd5451ca6.jpg"
+        }
+      },
+      {
+        "id": 349,
+        "slug": "upsc-foundation-offline-batch-ms",
+        "price": "30000",
+        "end_at": "2026-05-30T18:30:00.000Z",
+        "published_at": "2024-06-09T06:30:00.000Z",
+        "start_at": "2024-07-22T18:30:00.000Z",
+        "title": "UPSC Foundation Offline Batch - 2025 (Musallahpur)",
+        "image": {
+          "id": 956,
+          "entity_id": 349,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e26913ff-d53c-4e60-a6c6-0783a4712640.jpg"
+        }
+      },
+      {
+        "id": 347,
+        "slug": "g-s-special-batch-ii",
+        "price": "499",
+        "end_at": "2025-06-16T18:30:00.000Z",
+        "published_at": "2024-06-05T06:30:00.000Z",
+        "start_at": "2024-06-19T18:30:00.000Z",
+        "title": "G.S Special 2.0 Batch",
+        "image": {
+          "id": 1181,
+          "entity_id": 347,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b558e7d7-6ba1-4517-8ec0-d02024d21fb0.jpg"
+        }
+      },
+      {
+        "id": 346,
+        "slug": "jee-2025-maths-by-kundan-mankan-sir-bilingual",
+        "price": "499",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-06-05T06:30:00.000Z",
+        "start_at": "2024-06-12T18:30:00.000Z",
+        "title": "JEE 2025 Maths By Kundan Mankan Sir (Bilingual)",
+        "image": {
+          "id": 1151,
+          "entity_id": 346,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/80236041-6c35-4f79-884f-a7714bda6853.jpg"
+        }
+      },
+      {
+        "id": 345,
+        "slug": "gs-foundation-batch-2025-hindi-medium-offline-batch-6",
+        "price": "69500",
+        "end_at": "2026-07-11T18:30:00.000Z",
+        "published_at": "2024-06-05T11:08:05.000Z",
+        "start_at": "2024-07-01T18:30:00.000Z",
+        "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग् राम 2025 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
+        "image": {
+          "id": 891,
+          "entity_id": 345,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/901764cd-74de-47be-933f-1dbefe04073b.png"
+        }
+      },
+      {
+        "id": 344,
+        "slug": "biology-foundation-2024-by-amrita-mam-ii",
+        "price": "200",
+        "end_at": "2025-02-16T18:30:00.000Z",
+        "published_at": "2024-06-04T08:49:33.000Z",
+        "start_at": "2024-06-17T18:30:00.000Z",
+        "title": "Biology Foundation 2024 by Amrita Ma'am",
+        "image": {
+          "id": 916,
+          "entity_id": 344,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/9bde51df-05b3-4ca6-b186-3c130995b4d2.jpg"
+        }
+      },
+      {
+        "id": 343,
+        "slug": "public-administration-optional-english-2-medium",
+        "price": "4999",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-06-01T06:37:19.000Z",
+        "start_at": "2024-07-23T18:30:00.000Z",
+        "title": "Public Administration Optional English Medium",
+        "image": {
+          "id": 1020,
+          "entity_id": 343,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a80dd99a-2666-4c4e-81fe-8c1cc4bd65eb.jpg"
+        }
+      },
+      {
+        "id": 342,
+        "slug": "nda-math-foundation-ii",
+        "price": "799",
+        "end_at": "2025-06-11T18:30:00.000Z",
+        "published_at": "2024-05-30T06:30:00.000Z",
+        "start_at": "2024-06-11T18:30:00.000Z",
+        "title": "NDA Math Foundation by Prashant Sir",
+        "image": {
+          "id": 883,
+          "entity_id": 342,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/e1e160e9-9fa1-48b9-ab91-28126a763959.jpg"
+        }
+      },
+      {
+        "id": 341,
+        "slug": "neet-2025-physics-mohit-agarwal-english",
+        "price": "599",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-24T06:30:00.000Z",
+        "start_at": "2024-06-02T18:30:00.000Z",
+        "title": "NEET 2025 Physics By Mohit Agarwal Sir (English Medium)",
+        "image": {
+          "id": 1197,
+          "entity_id": 341,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/48f6f459-3f35-4ef6-8326-df4d8da009a4.jpg"
+        }
+      },
+      {
+        "id": 340,
+        "slug": "neet-2025-physics-ssp-hindi-medium",
+        "price": "499",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-24T06:24:54.000Z",
+        "start_at": "2024-06-02T18:30:00.000Z",
+        "title": "NEET 2025 Physics By SSP Sir (Hindi Medium)",
+        "image": {
+          "id": 1148,
+          "entity_id": 340,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/31476047-1632-4f22-9de2-c0edfe80c7e4.jpg"
+        }
+      },
+      {
+        "id": 339,
+        "slug": "class-11-th-vision-batch-neet-2026",
+        "price": "1499",
+        "end_at": "2026-04-29T18:30:00.000Z",
+        "published_at": "2024-05-22T06:30:00.000Z",
+        "start_at": "2024-06-09T18:30:00.000Z",
+        "title": "Class 11th Vision 250 Days English Batch NEET 2026",
+        "image": {
+          "id": 1158,
+          "entity_id": 339,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5bb1cceb-94c6-4ba6-8e10-18170e6ace75.jpg"
+        }
+      },
+      {
+        "id": 338,
+        "slug": "class-11-th-vision-batch-jee-2026",
+        "price": "1499",
+        "end_at": "2026-04-29T18:30:00.000Z",
+        "published_at": "2024-05-22T06:30:00.000Z",
+        "start_at": "2024-06-09T18:30:00.000Z",
+        "title": "Class 11th Vision 250 Days Bilingual Batch JEE 2026",
+        "image": {
+          "id": 1199,
+          "entity_id": 338,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f5774aab-dcee-4045-8c29-aa53b6632dc5.jpg"
+        }
+      },
+      {
+        "id": 336,
+        "slug": "calculation-booster-batch-by-neeraj-sir",
+        "price": "99",
+        "end_at": "2025-05-26T18:30:00.000Z",
+        "published_at": "2024-05-21T06:30:00.000Z",
+        "start_at": "2024-05-26T18:30:00.000Z",
+        "title": "Calculation Booster Batch By Neeraj Sir",
+        "image": {
+          "id": 917,
+          "entity_id": 336,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/14554912-6608-471c-bd86-855bc656be38.jpg"
+        }
+      },
+      {
+        "id": 335,
+        "slug": "jee-2025-mission-200-days-batch-bilingual",
+        "price": "1499",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-05-21T06:30:00.000Z",
+        "start_at": "2024-06-09T18:30:00.000Z",
+        "title": "JEE 2025 Mission 200 Days Batch Bilingual",
+        "image": {
+          "id": 1200,
+          "entity_id": 335,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e46d304f-e6d7-4f0c-be1b-943eb939fb70.jpg"
+        }
+      },
+      {
+        "id": 332,
+        "slug": "class-11-th-yearlong-patna-batch-2-jee-2026",
+        "price": "30000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-05-18T07:50:55.000Z",
+        "start_at": "2024-06-26T18:30:00.000Z",
+        "title": "Class 11th Yearlong Boring Road (Patna) Offline Bilingual Batch-II JEE 2026",
+        "image": {
+          "id": 999,
+          "entity_id": 332,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fa65d0af-e1b4-477f-baf5-4715d68f1925.png"
+        }
+      },
+      {
+        "id": 329,
+        "slug": "classroom-off-Line-71st-bpsc-batch 2024-boring-road",
+        "price": "20000",
+        "end_at": "2025-12-30T18:30:00.000Z",
+        "published_at": "2024-05-15T06:30:00.000Z",
+        "start_at": "2024-07-22T18:30:00.000Z",
+        "title": "Classroom off-Line 71st BPSC Batch (Boring Road)",
+        "image": {
+          "id": 1276,
+          "entity_id": 329,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cb55a69c-6547-4286-87a8-de6776ce0441.jpg"
+        }
+      },
+      {
+        "id": 327,
+        "slug": "neet-mission-300-days-batch-hindi-medium",
+        "price": "1099",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-13T06:30:00.000Z",
+        "start_at": "2024-05-26T18:30:00.000Z",
+        "title": "NEET 2025 Mission 300 Days Batch Hindi Medium",
+        "image": {
+          "id": 1155,
+          "entity_id": 327,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a74ea228-85b3-4fba-b519-6ea4d33a26b2.jpg"
+        }
+      },
+      {
+        "id": 326,
+        "slug": "neet-mission-300-days-batch-english-medium",
+        "price": "1499",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-13T06:30:00.000Z",
+        "start_at": "2024-05-29T18:30:00.000Z",
+        "title": "NEET 2025 Mission 300 Days Batch English Medium",
+        "image": {
+          "id": 1092,
+          "entity_id": 326,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d7850a1e-4b56-4063-9939-589db1498f0c.jpg"
+        }
+      },
+      {
+        "id": 324,
+        "slug": "Airforce-xy-navy-srr-icg-navik-batch-2024",
+        "price": "599",
+        "end_at": "2025-03-15T18:30:00.000Z",
+        "published_at": "2024-05-10T06:30:00.000Z",
+        "start_at": "2024-05-15T18:30:00.000Z",
+        "title": "AGNIVEER VAYU (X+Y) | NAVY SSR | MR | ICG Batch 2024",
+        "image": {
+          "id": 985,
+          "entity_id": 324,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/46135ffc-d98e-4ea0-bd86-37016888b2e8.jpeg"
+        }
+      },
+      {
+        "id": 321,
+        "slug": "class-11-th-yearlong-musallahpur-patna-batch-jee-2026",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-05-08T06:30:00.000Z",
+        "start_at": "2024-05-12T18:30:00.000Z",
+        "title": "Class 11th Yearlong Musallahpur (Patna) Offline Bilingual Batch JEE 2026",
+        "image": {
+          "id": 1164,
+          "entity_id": 321,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2da73561-ed89-4935-a0ac-41a57cf020d2.jpeg"
+        }
+      },
+      {
+        "id": 320,
+        "slug": "class-12-dropper-yearlong-musallahpur-offline-bilingual-batch-jee-2025",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-05-07T06:30:00.000Z",
+        "start_at": "2024-05-12T18:30:00.000Z",
+        "title": "Class 12th/ Dropper Yearlong Musallahpur (Patna) Offline Bilingual Batch JEE 2025",
+        "image": {
+          "id": 887,
+          "entity_id": 320,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/b831df6f-8482-4a24-9a30-09eb5889cd00.jpg"
+        }
+      },
+      {
+        "id": 305,
+        "slug": "achiever-yearlong-boring-road-patna-batch-neet-2025",
+        "price": "30000",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-06T06:30:00.000Z",
+        "start_at": "2024-06-10T18:30:00.000Z",
+        "title": "Achiever/Dropper Yearlong Boring Road (Patna) Offline Bilingual Batch NEET 2025",
+        "image": {
+          "id": 1000,
+          "entity_id": 305,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0bfad16d-5cde-4a2e-bc10-7530ba0d14e3.png"
+        }
+      },
+      {
+        "id": 304,
+        "slug": "chemistry-foundation-recorded",
+        "price": "200",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2024-05-02T18:30:00.000Z",
+        "start_at": "2024-05-02T18:30:00.000Z",
+        "title": "Chemistry Foundation (Recorded)",
+        "image": {
+          "id": 796,
+          "entity_id": 304,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/2bdb458e-9432-477b-8dfb-51b97b3753cd.jpg"
+        }
+      },
+      {
+        "id": 303,
+        "slug": "je-electrical-engineering-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-02T06:30:00.000Z",
+        "start_at": "2024-05-09T18:30:00.000Z",
+        "title": "JE (Electrical) Engineering Foundation Batch 2024",
+        "image": {
+          "id": 1097,
+          "entity_id": 303,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/14ddafda-f796-4033-bc1a-55b87899e86e.png"
+        }
+      },
+      {
+        "id": 302,
+        "slug": "je-mechanical-engineering-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-02T06:30:00.000Z",
+        "start_at": "2024-05-09T18:30:00.000Z",
+        "title": "JE (Mechanical) Engineering Foundation Batch 2024",
+        "image": {
+          "id": 1096,
+          "entity_id": 302,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fa0179a7-1e6a-4241-bbed-66d74cbc772c.png"
+        }
+      },
+      {
+        "id": 301,
+        "slug": "je-civil-engineering-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-05-02T06:30:00.000Z",
+        "start_at": "2024-05-09T18:30:00.000Z",
+        "title": "JE (Civil) Engineering Foundation Batch 2024",
+        "image": {
+          "id": 1098,
+          "entity_id": 301,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b1c9d5bb-f86f-40a4-9fea-237e91e06575.png"
+        }
+      },
+      {
+        "id": 299,
+        "slug": "class-11-th-yearlong-mussalahpur-patna-batch-neet-2026",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-04-30T06:30:00.000Z",
+        "start_at": "2024-05-06T18:30:00.000Z",
+        "title": "Class 11th Yearlong Musallahpur (Patna) Offline Bilingual Batch NEET 2026",
+        "image": {
+          "id": 877,
+          "entity_id": 299,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/c4f27140-3272-4a92-a9ea-2b1c347a2a44.jpg"
+        }
+      },
+      {
+        "id": 298,
+        "slug": "class-11-th-yearlong-boring-road-patna-batch-neet-2026",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-04-30T14:09:52.000Z",
+        "start_at": "2024-04-23T18:30:00.000Z",
+        "title": "Class 11th Yearlong Boring Road (Patna) Offline Bilingual Batch NEET 2026",
+        "image": {
+          "id": 900,
+          "entity_id": 298,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8a34f449-4e89-44bc-8003-b6efaa0ece44.jpg"
+        }
+      },
+      {
+        "id": 297,
+        "slug": "mp-mahila-supervisor-selection-batch-04-2024",
+        "price": "299",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-04-30T14:09:54.000Z",
+        "start_at": "2024-05-05T18:30:00.000Z",
+        "title": "MP महिला सुपरवाइजर Selection Batch 2024",
+        "image": {
+          "id": 934,
+          "entity_id": 297,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d07dd8e5-3db0-4c5f-baeb-c665286db9a0.png"
+        }
+      },
+      {
+        "id": 296,
+        "slug": "bank-foundation-prelims-mains-batch-2024-25",
+        "price": "999",
+        "end_at": "2025-05-06T18:30:00.000Z",
+        "published_at": "2024-04-30T08:13:18.000Z",
+        "start_at": "2024-05-06T18:30:00.000Z",
+        "title": "Bank Foundation (Prelims + Mains) Batch 2024-25",
+        "image": {
+          "id": 814,
+          "entity_id": 296,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/6a0a99fd-a2d4-4238-b6c9-562a9383c6f6.png"
+        }
+      },
+      {
+        "id": 293,
+        "slug": "dropper-yearlong-boring-road-patna-batch-neet-2025",
+        "price": "25000",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-04-24T06:30:00.000Z",
+        "start_at": "2024-04-23T18:30:00.000Z",
+        "title": "Class 12th/Dropper Yearlong Boring Road (Patna) Offline Bilingual Batch NEET 2025",
+        "image": {
+          "id": 904,
+          "entity_id": 293,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/41321fda-6d24-4632-881c-beef635294ce.jpg"
+        }
+      },
+      {
+        "id": 292,
+        "slug": "dropper-yearlong-musallahpur-patna-batch-neet-2025",
+        "price": "25000",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-04-24T06:30:00.000Z",
+        "start_at": "2024-04-23T18:30:00.000Z",
+        "title": "Class 12th/Dropper Yearlong Musallahpur (Patna) Offline Bilingual Batch NEET 2025",
+        "image": {
+          "id": 886,
+          "entity_id": 292,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/426d5c88-e64c-4f9a-a76f-1c6412289717.jpg"
+        }
+      },
+      {
+        "id": 290,
+        "slug": "history-optional",
+        "price": "4999",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2024-04-18T09:30:11.000Z",
+        "start_at": "2024-06-23T18:30:00.000Z",
+        "title": "History Optional",
+        "image": {
+          "id": 857,
+          "entity_id": 290,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/0a7487af-7e32-4f76-8407-a7b19ecd00d5.jpg"
+        }
+      },
+      {
+        "id": 289,
+        "slug": "rpf-si-and-constable-batch-2024",
+        "price": "399",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-04-16T09:08:49.000Z",
+        "start_at": "2024-04-22T18:30:00.000Z",
+        "title": "RPF S.I & Constable Batch 2024",
+        "image": {
+          "id": 759,
+          "entity_id": 289,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/16d4e904-3bc8-4d8b-8803-cc79406ce571.jpg"
+        }
+      },
+      {
+        "id": 288,
+        "slug": "upsc-pre-mains-foundation-batch-2025-english-medium-2",
+        "price": "10000",
+        "end_at": "2026-05-21T18:30:00.000Z",
+        "published_at": "2024-04-10T10:38:49.000Z",
+        "start_at": "2024-05-21T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2025 (English Medium)",
+        "image": {
+          "id": 949,
+          "entity_id": 288,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/0e1b29a3-6316-4962-99f3-dd614790f1b5.jpg"
+        }
+      },
+      {
+        "id": 287,
+        "slug": "upsc-pre-mains-foundation-batch-2025-hindi-medium-2",
+        "price": "10000",
+        "end_at": "2026-05-09T18:30:00.000Z",
+        "published_at": "2024-04-09T06:30:00.000Z",
+        "start_at": "2024-05-20T18:30:00.000Z",
+        "title": "UPSC (Pre+Mains) Foundation Batch 2025 (Hindi Medium)",
+        "image": {
+          "id": 950,
+          "entity_id": 287,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/aaacb609-6074-48c1-94ce-8bb1cf9dd28a.jpg"
+        }
+      },
+      {
+        "id": 282,
+        "slug": "bpsc-tre-4-class-1-to-5",
+        "price": "599",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-04-04T06:30:00.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "BPSC TRE 4.0 Class (1 to 5)",
+        "image": {
+          "id": 929,
+          "entity_id": 282,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/812c39fd-5815-425d-8e02-8dc76ebe2e7b.jpg"
+        }
+      },
+      {
+        "id": 281,
+        "slug": "bpsc-tre-4-class-6-to-8-9-to-10-batch",
+        "price": "699",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-04-04T06:30:00.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "BPSC TRE 4.0 Class (6 to 8 & 9 to 10)",
+        "image": {
+          "id": 1034,
+          "entity_id": 281,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cca38b14-bfb7-4e69-873a-6651ced0ad3f.jpeg"
+        }
+      },
+      {
+        "id": 280,
+        "slug": "bsphcl-tg-iii-batch-2024",
+        "price": "299",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-04-02T06:30:00.000Z",
+        "start_at": "2024-04-14T18:30:00.000Z",
+        "title": "BSPHCL TG-III Batch 2024",
+        "image": {
+          "id": 942,
+          "entity_id": 280,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/fba88bf8-ae2b-4ad5-89bc-e920fae477af.jpg"
+        }
+      },
+      {
+        "id": 277,
+        "slug": "ssc-maths-foundation-batch-2024",
+        "price": "599",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2024-03-27T01:37:46.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "SSC Maths Foundation Batch 2024",
+        "image": {
+          "id": 937,
+          "entity_id": 277,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/419c311b-13cd-4aee-8e5d-b519b5040241.jpg"
+        }
+      },
+      {
+        "id": 276,
+        "slug": "ssc-reasoning-foundation-batch-2024",
+        "price": "599",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-27T07:03:45.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "SSC Reasoning Foundation Batch 2024",
+        "image": {
+          "id": 938,
+          "entity_id": 276,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/7d9e3a37-6324-4ecb-828c-c4e53ca8272e.jpg"
+        }
+      },
+      {
+        "id": 275,
+        "slug": "ssc-english-foundation-batch-2024",
+        "price": "599",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-27T01:28:58.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "SSC English Foundation Batch 2024",
+        "image": {
+          "id": 936,
+          "entity_id": 275,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/3ad1894f-ef5f-404a-829f-6ae4cfde7e6c.jpg"
+        }
+      },
+      {
+        "id": 274,
+        "slug": "maths-optional-bilingual-batch-3",
+        "price": "4999",
+        "end_at": "2025-06-29T18:30:00.000Z",
+        "published_at": "2024-03-23T06:30:00.000Z",
+        "start_at": "2024-03-27T18:30:00.000Z",
+        "title": "Maths Optional Bilingual",
+        "image": {
+          "id": 675,
+          "entity_id": 274,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/6f2990a5-9a83-46e5-90bb-43dc07d5e810.jpeg"
+        }
+      },
+      {
+        "id": 272,
+        "slug": "uppsc-prelims-mains-batch-2025",
+        "price": "4500",
+        "end_at": "2025-10-30T18:30:00.000Z",
+        "published_at": "2024-03-21T06:30:00.000Z",
+        "start_at": "2024-05-13T18:30:00.000Z",
+        "title": "UPPSC (Prelims + Mains) Batch - 2025",
+        "image": {
+          "id": 837,
+          "entity_id": 272,
+          "large": "https://kgs-v2.akamaized.net/kgs/courses/large/2d8a88ee-7792-4ad0-9d05-f52814724512.png"
+        }
+      },
+      {
+        "id": 271,
+        "slug": "upsssc-agta-batch-2024",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-24T05:40:35.000Z",
+        "start_at": "2024-03-31T18:30:00.000Z",
+        "title": "UPSSSC-(AGTA) Batch 2024",
+        "image": {
+          "id": 672,
+          "entity_id": 271,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/2f6e9ab6-e950-4e9e-acb3-60c9f7a7dcd3.jpg"
+        }
+      },
+      {
+        "id": 270,
+        "slug": "upsssc-junior-assistant-ja-batch-2024",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-21T13:47:43.000Z",
+        "start_at": "2024-03-31T18:30:00.000Z",
+        "title": "UPSSSC-Junior Assistant (JA) Batch 2024",
+        "image": {
+          "id": 671,
+          "entity_id": 270,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/cb054fd9-6114-4f8c-ad0c-1955eeb216f7.jpg"
+        }
+      },
+      {
+        "id": 269,
+        "slug": "upsssc-je-civil-batch-2024",
+        "price": "799",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-21T13:47:45.000Z",
+        "start_at": "2024-03-31T18:30:00.000Z",
+        "title": "UPSSSC JE (Civil) - Batch 2024",
+        "image": {
+          "id": 670,
+          "entity_id": 269,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/622f3a27-7081-48de-8b02-704ea089f07b.jpg"
+        }
+      },
+      {
+        "id": 265,
+        "slug": "class-11-th-yearlong-patna-batch-jee-2026",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-05-08T18:30:00.000Z",
+        "title": "Class 11th Yearlong Boring Road (Patna) Offline Bilingual Batch JEE 2026",
+        "image": {
+          "id": 1002,
+          "entity_id": 265,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/e2534bc1-ebb8-493a-b3aa-6c16be42f83d.png"
+        }
+      },
+      {
+        "id": 263,
+        "slug": "dropper-yearlong-patna-batch-jee-2025",
+        "price": "25000",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-05-08T18:30:00.000Z",
+        "title": "Class 12th/Dropper Yearlong Boring Road (Patna) Offline Bilingual Batch JEE 2025",
+        "image": {
+          "id": 905,
+          "entity_id": 263,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8a6bca43-f733-4ac1-9807-25b6893b22ad.jpg"
+        }
+      },
+      {
+        "id": 262,
+        "slug": "cds-2-foundation-batch-2024",
+        "price": "1499",
+        "end_at": "2025-04-27T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-04-28T18:30:00.000Z",
+        "title": "CDS-2 Foundation Batch 2024",
+        "image": {
+          "id": 960,
+          "entity_id": 262,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/83f774da-5004-425f-8231-d01e74ae34a6.jpg"
+        }
+      },
+      {
+        "id": 261,
+        "slug": "nda-2-foundation-batch-2024",
+        "price": "1499",
+        "end_at": "2025-04-27T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-04-28T18:30:00.000Z",
+        "title": "NDA-2 Foundation Batch 2024",
+        "image": {
+          "id": 961,
+          "entity_id": 261,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/296cf01e-4259-407f-85c8-1c9a7ed2686c.jpg"
+        }
+      },
+      {
+        "id": 260,
+        "slug": "cds-2-foundation-batch-2024-offline",
+        "price": "20000",
+        "end_at": "2025-04-27T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-04-28T18:30:00.000Z",
+        "title": "CDS-2 Foundation Batch 2024 (Dehradun  Offline)",
+        "image": {
+          "id": 962,
+          "entity_id": 260,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/c423709e-fb71-4b36-ad16-a4953036da56.jpg"
+        }
+      },
+      {
+        "id": 259,
+        "slug": "nda-2-foundation-batch-2024-offline",
+        "price": "20000",
+        "end_at": "2025-04-27T18:30:00.000Z",
+        "published_at": "2024-03-18T06:30:00.000Z",
+        "start_at": "2024-04-28T18:30:00.000Z",
+        "title": "NDA-2 Foundation Batch 2024 (Dehradun Offline)",
+        "image": {
+          "id": 963,
+          "entity_id": 259,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8c3aa59a-fb36-40f7-8fd8-59fd83f2ee5c.jpg"
+        }
+      },
+      {
+        "id": 258,
+        "slug": "ncert-foundation-batch-2024",
+        "price": "1299",
+        "end_at": "2025-03-13T18:30:00.000Z",
+        "published_at": "2024-03-14T16:47:00.000Z",
+        "start_at": "2024-03-31T18:30:00.000Z",
+        "title": "NCERT Foundation Batch 2024",
+        "image": {
+          "id": 947,
+          "entity_id": 258,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6827fcbc-2581-443d-9b75-c25450eb530e.jpg"
+        }
+      },
+      {
+        "id": 256,
+        "slug": "uppsc-2024-prelims-practice-batch-uppsc-ro-aro",
+        "price": "999",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-03-14T14:16:02.000Z",
+        "start_at": "2024-03-31T18:30:00.000Z",
+        "title": "UPPSC-2024 Prelims Practice Batch (UPPSC & RO/ARO)",
+        "image": {
+          "id": 948,
+          "entity_id": 256,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/1b6fb876-e6ad-41c9-94d3-0a1bc951f809.jpg"
+        }
+      },
+      {
+        "id": 255,
+        "slug": "advance-maths-foundation-batch-by-gaurav-sir",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2024-03-14T14:16:01.000Z",
+        "start_at": "2024-03-27T18:30:00.000Z",
+        "title": "Advance Maths Foundation Batch by Gaurav Sir",
+        "image": {
+          "id": 939,
+          "entity_id": 255,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d47c4d0f-0c9d-417c-bdb2-17fb4bd110d5.jpg"
+        }
+      },
+      {
+        "id": 254,
+        "slug": "ssc-mahapack",
+        "price": "1299",
+        "end_at": "2025-04-08T18:30:00.000Z",
+        "published_at": "2024-03-14T08:19:17.000Z",
+        "start_at": "2024-04-08T18:30:00.000Z",
+        "title": "SSC Mahapack",
+        "image": {
+          "id": 954,
+          "entity_id": 254,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/442a4d10-731e-4b68-8dde-03ec7e80ce23.jpg"
+        }
+      },
+      {
+        "id": 253,
+        "slug": "class-11-th-yearlong-batch-jee-2026",
+        "price": "2999",
+        "end_at": "2026-04-29T18:30:00.000Z",
+        "published_at": "2024-03-12T13:30:00.000Z",
+        "start_at": "2024-04-28T18:30:00.000Z",
+        "title": "Class 11th Yearlong Bilingual Batch JEE 2026",
+        "image": {
+          "id": 1198,
+          "entity_id": 253,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/04cd1efe-28a1-4232-bc75-e26273aa1ccd.jpg"
+        }
+      },
+      {
+        "id": 251,
+        "slug": "class-12-th-yearlong-batch-jee-2025",
+        "price": "2999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-03-12T13:30:00.000Z",
+        "start_at": "2024-04-30T18:30:00.000Z",
+        "title": "Class 12th Yearlong Bilingual Batch JEE 2025",
+        "image": {
+          "id": 1165,
+          "entity_id": 251,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/17d8c346-66ff-4c84-90f7-71c1737225d1.jpg"
+        }
+      },
+      {
+        "id": 249,
+        "slug": "dropper-yearlong-batch-jee-2025",
+        "price": "2999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-03-12T13:30:00.000Z",
+        "start_at": "2024-04-30T18:30:00.000Z",
+        "title": "Dropper Yearlong Bilingual Batch JEE 2025",
+        "image": {
+          "id": 1201,
+          "entity_id": 249,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/6fb13a78-5e49-4c4c-b78a-2ce77b51c129.jpg"
+        }
+      },
+      {
+        "id": 244,
+        "slug": "uppsc-ro-aro-recorded-live-batch",
+        "price": "399",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2024-03-13T11:46:46.000Z",
+        "start_at": "2024-03-12T18:30:00.000Z",
+        "title": "UPPSC RO/ARO (Recorded + Live) Batch",
+        "image": {
+          "id": 648,
+          "entity_id": 244,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/da991df6-1e13-4ffe-ac26-a61bd2cf5400.jpg"
+        }
+      },
+      {
+        "id": 243,
+        "slug": "reasoning-batch-03-2024",
+        "price": "499",
+        "end_at": "2025-03-06T18:30:00.000Z",
+        "published_at": "2024-03-05T06:30:00.000Z",
+        "start_at": "2024-03-06T18:30:00.000Z",
+        "title": "Reasoning Batch 03 (2024)",
+        "image": {
+          "id": 622,
+          "entity_id": 243,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/e520b2c4-af35-4e4f-97c3-aeaebd3217bb.png"
+        }
+      },
+      {
+        "id": 242,
+        "slug": "english-foundation-batch-4-by",
+        "price": "499",
+        "end_at": "2025-03-06T18:30:00.000Z",
+        "published_at": "2024-03-05T06:30:00.000Z",
+        "start_at": "2024-03-06T18:30:00.000Z",
+        "title": "English Foundation Batch-04 By Priyanshu Sir",
+        "image": {
+          "id": 623,
+          "entity_id": 242,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/39591ee6-8108-4224-9338-9b41d9eb338b.png"
+        }
+      },
+      {
+        "id": 232,
+        "slug": "dropper-yearlong-hindi-batch-neet-2025",
+        "price": "2199",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-05-22T18:30:00.000Z",
+        "title": "Dropper Yearlong Hindi Batch NEET 2025",
+        "image": {
+          "id": 1202,
+          "entity_id": 232,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a13bf130-e79d-49f0-afbb-c73021b8eb76.jpg"
+        }
+      },
+      {
+        "id": 237,
+        "slug": "class-12-th-yearlong-hindi-batch-neet-2025",
+        "price": "2199",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-04-21T18:30:00.000Z",
+        "title": "Class 12th Yearlong Hindi Batch NEET 2025",
+        "image": {
+          "id": 1203,
+          "entity_id": 237,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d8040d40-4d80-44e7-8f25-adeca61bfdbb.jpg"
+        }
+      },
+      {
+        "id": 239,
+        "slug": "class-11-th-yearlong-hindi-batch-neet-2026",
+        "price": "2199",
+        "end_at": "2026-04-29T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-04-21T18:30:00.000Z",
+        "title": "Class 11th Yearlong Hindi Batch NEET 2026",
+        "image": {
+          "id": 1156,
+          "entity_id": 239,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/dcc87dca-1380-43fa-a028-bf2502adf6b9.jpg"
+        }
+      },
+      {
+        "id": 229,
+        "slug": "dropper-yearlong-batch-neet-2025",
+        "price": "2999",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-04-26T18:30:00.000Z",
+        "title": "Dropper Yearlong English Batch NEET 2025",
+        "image": {
+          "id": 1093,
+          "entity_id": 229,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/5245e0f8-1c18-485d-bb68-edcaf05f491e.jpg"
+        }
+      },
+      {
+        "id": 238,
+        "slug": "class-12-th-yearlong-batch-neet-2025",
+        "price": "2999",
+        "end_at": "2025-05-09T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-04-21T18:30:00.000Z",
+        "title": "Class 12th Yearlong English Batch NEET 2025",
+        "image": {
+          "id": 1091,
+          "entity_id": 238,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/493d5bbb-01b8-4ed8-bee4-1022f3128c16.jpg"
+        }
+      },
+      {
+        "id": 240,
+        "slug": "class-11-th-yearlong-batch-neet-2026",
+        "price": "2999",
+        "end_at": "2026-04-29T18:30:00.000Z",
+        "published_at": "2024-03-01T13:30:00.000Z",
+        "start_at": "2024-04-21T18:30:00.000Z",
+        "title": "Class 11th Yearlong English Batch NEET 2026",
+        "image": {
+          "id": 1090,
+          "entity_id": 240,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/cd880480-b29c-41ee-befb-b5086a5b40f3.jpg"
+        }
+      },
+      {
+        "id": 223,
+        "slug": "foundation-recorded-batch-by-khan-sir",
+        "price": "1199",
+        "end_at": "2026-03-21T18:30:00.000Z",
+        "published_at": "2024-02-21T06:30:00.000Z",
+        "start_at": "2024-02-21T18:30:00.000Z",
+        "title": "Foundation (Recorded Batch) by Khan Sir",
+        "image": {
+          "id": 602,
+          "entity_id": 223,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/4a9211f3-71e2-454b-93fb-b57497ab9b61.png"
+        }
+      },
+      {
+        "id": 220,
+        "slug": "maths-optional-bilingual-batch",
+        "price": "4999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2024-02-16T13:10:03.000Z",
+        "start_at": "2024-02-22T18:30:00.000Z",
+        "title": "Maths Optional Bilingual",
+        "image": {
+          "id": 596,
+          "entity_id": 220,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/680fc557-8aab-48bf-baef-af32afb47d82.jpeg"
+        }
+      },
+      {
+        "id": 214,
+        "slug": "rrb-alp-tech-2024-cbt1-cbt2-batch-2024",
+        "price": "499",
+        "end_at": "2025-02-19T18:30:00.000Z",
+        "published_at": "2024-02-11T06:30:00.000Z",
+        "start_at": "2024-02-19T18:30:00.000Z",
+        "title": "RRB ALP/TECH. 2024 CBT 1 + CBT2 BATCH 2024",
+        "image": {
+          "id": 588,
+          "entity_id": 214,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/859c727e-d06f-46c8-891f-4df1b1e069a9.jpeg"
+        }
+      },
+      {
+        "id": 188,
+        "slug": "bpsc-batch-2-on-line-pt-mains-essay",
+        "price": "4500",
+        "end_at": "2025-06-29T18:30:00.000Z",
+        "published_at": "2023-12-02T06:30:00.000Z",
+        "start_at": "2023-12-25T18:30:00.000Z",
+        "title": "BPSC 70th  BATCH-2  2024 on-line (P.T + Mains)",
+        "image": {
+          "id": 955,
+          "entity_id": 188,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/2674f9de-bfd9-4f7c-a1ff-67f15331cb14.jpg"
+        }
+      },
+      {
+        "id": 182,
+        "slug": "ncert-geography",
+        "price": "199",
+        "end_at": "2025-05-30T18:30:00.000Z",
+        "published_at": "2023-11-23T06:30:00.000Z",
+        "start_at": "2023-11-22T18:30:00.000Z",
+        "title": "NCERT Geography (Recorded)",
+        "image": {
+          "id": 430,
+          "entity_id": 182,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/d91d27f1-32e5-46b5-8228-bc51bc122b0e.jpg"
+        }
+      },
+      {
+        "id": 169,
+        "slug": "uppsc-ro-aro-batch",
+        "price": "799",
+        "end_at": "2025-02-27T18:30:00.000Z",
+        "published_at": "2023-10-16T06:30:00.000Z",
+        "start_at": "2023-10-18T18:30:00.000Z",
+        "title": "UPPSC RO/ARO Batch",
+        "image": {
+          "id": 562,
+          "entity_id": 169,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/518c58f3-10ca-45f3-bcf4-436af4a4724b.jpg"
+        }
+      },
+      {
+        "id": 166,
+        "slug": "ssc-cgl-foundation-batch-2024",
+        "price": "999",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2023-09-28T06:30:00.000Z",
+        "start_at": "2023-10-09T18:30:00.000Z",
+        "title": "SSC CGL Tier I & II Foundation Batch 2024",
+        "image": {
+          "id": 965,
+          "entity_id": 166,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/b80113b7-1096-42ff-8dcd-06e09eefe494.jpg"
+        }
+      },
+      {
+        "id": 154,
+        "slug": "bssc-10-2-level",
+        "price": "499",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2023-09-20T06:30:00.000Z",
+        "start_at": "None",
+        "title": "Bihar SSC (10+2) Inter Level by Khan Sir & Team",
+        "image": {
+          "id": 395,
+          "entity_id": 154,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/83be72f2-84c6-4e91-9663-b669898e57ce.jpg"
+        }
+      },
+      {
+        "id": 152,
+        "slug": "math-foundation-by-gaurav-sir",
+        "price": "650",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2023-09-18T06:30:00.000Z",
+        "start_at": "2023-09-27T18:30:00.000Z",
+        "title": "Maths Foundation By Gaurav Sir",
+        "image": {
+          "id": 940,
+          "entity_id": 152,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/319021af-ea2a-41c9-83ea-9e236b1dcd11.jpg"
+        }
+      },
+      {
+        "id": 136,
+        "slug": "classroom-off-line-bpsc-batch-2024-boring-road",
+        "price": "20000",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2023-08-01T06:30:00.000Z",
+        "start_at": "None",
+        "title": "Classroom off-Line (BPSC Batch 2024) Boring Road",
+        "image": {
+          "id": 306,
+          "entity_id": 136,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/852b2a91-73b2-4fc2-a7b4-a8352ff69084.jpeg"
+        }
+      },
+      {
+        "id": 135,
+        "slug": "bpsc-2024-on-line-pt-mains-essay",
+        "price": "4500",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2023-08-04T06:30:00.000Z",
+        "start_at": "None",
+        "title": "BPSC 70th - 2024 on-line (P.T + Mains + Essay)",
+        "image": {
+          "id": 299,
+          "entity_id": 135,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/4a71dc39-3527-40e9-bb4f-c722be5c123c.png"
+        }
+      },
+      {
+        "id": 134,
+        "slug": "classroom-off-line-bpsc-batch-2024",
+        "price": "15000",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2023-08-04T06:30:00.000Z",
+        "start_at": "None",
+        "title": "Classroom off-Line BPSC Batch 2024 (Branch- Musallahpur)",
+        "image": {
+          "id": 400,
+          "entity_id": 134,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/c63035d5-6f6b-457a-b362-b00e42cb050a.jpg"
+        }
+      },
+      {
+        "id": 131,
+        "slug": "geography-optional-hindi-medium",
+        "price": "4999",
+        "end_at": "2025-04-29T18:30:00.000Z",
+        "published_at": "2023-12-09T06:30:00.000Z",
+        "start_at": "2024-01-15T18:30:00.000Z",
+        "title": "Geography Optional Hindi Medium",
+        "image": {
+          "id": 473,
+          "entity_id": 131,
+          "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/f2a2cc46-a9b0-4f6c-9616-546280ccca48.png"
+        }
+      },
+      {
+        "id": 130,
+        "slug": "maths-optional-bilingual",
+        "price": "4999",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2023-12-09T06:30:00.000Z",
+        "start_at": "2024-01-08T18:30:00.000Z",
+        "title": "Maths Optional Bilingual",
+        "image": {
+          "id": 472,
+          "entity_id": 130,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/00314b58-6e83-4c07-86f0-050c5bf1541a.jpg"
+        }
+      },
+      {
+        "id": 209,
+        "slug": "physics-foundation-2023-recorded-2",
+        "price": "199",
+        "end_at": "2025-07-30T18:30:00.000Z",
+        "published_at": "2024-02-09T06:30:00.000Z",
+        "start_at": "2024-02-09T18:30:00.000Z",
+        "title": "Physics Foundation (Recorded)",
+        "image": {
+          "id": 585,
+          "entity_id": 209,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/ad07a9db-0452-4085-907b-d9d6c6c31ca2.jpg"
+        }
+      },
+      {
+        "id": 99,
+        "slug": "uppsc-2024",
+        "price": "4500",
+        "end_at": "2025-03-30T18:30:00.000Z",
+        "published_at": "2023-05-22T18:30:00.000Z",
+        "start_at": "None",
+        "title": "UPPSC (Prelims + Mains) Batch - 2024",
+        "image": {
+          "id": 355,
+          "entity_id": 99,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/98178c95-afdc-4ef8-9115-ca5a6d90dc96.png"
+        }
+      },
+      {
+        "id": 84,
+        "slug": "economics-foundation-2023",
+        "price": "199",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2023-03-26T18:30:00.000Z",
+        "start_at": "None",
+        "title": "Economics Foundation (Recorded)",
+        "image": {
+          "id": 261,
+          "entity_id": 84,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/c519ecff-70ca-43cc-9ed2-483963f89027.png"
+        }
+      },
+      {
+        "id": 65,
+        "slug": "indian-map-2023",
+        "price": "200",
+        "end_at": "2025-04-23T18:30:00.000Z",
+        "published_at": "2023-02-08T18:30:00.000Z",
+        "start_at": "None",
+        "title": "Indian Map 2023 (Recorded)",
+        "image": {
+          "id": 264,
+          "entity_id": 65,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/9d0fd041-c55d-4d42-a45b-24dd944038c9.png"
+        }
+      },
+      {
+        "id": 20,
+        "slug": "geography-foundation-2023",
+        "price": "199",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2023-03-20T18:30:00.000Z",
+        "start_at": "None",
+        "title": "Geography Foundation (Recorded)",
+        "image": {
+          "id": 260,
+          "entity_id": 20,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/c5d0adc0-e0ed-47ef-aaa6-54c2df2af679.png"
+        }
+      },
+      {
+        "id": 19,
+        "slug": "polity-foundation",
+        "price": "250",
+        "end_at": "2025-01-30T18:30:00.000Z",
+        "published_at": "2022-12-11T18:30:00.000Z",
+        "start_at": "None",
+        "title": "Polity Foundation (Recorded)",
+        "image": {
+          "id": 263,
+          "entity_id": 19,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/733223c7-1026-4bda-9ff1-de565566f2ae.png"
+        }
+      },
+      {
+        "id": 13,
+        "slug": "bpsc-2023-pt-mains",
+        "price": "4500",
+        "end_at": "2024-12-30T18:30:00.000Z",
+        "published_at": "2023-01-11T18:30:00.000Z",
+        "start_at": "2023-01-15T18:30:00.000Z",
+        "title": "BPSC-2023 (P.T+MAINS)",
+        "image": {
+          "id": 249,
+          "entity_id": 13,
+          "large": "https://kgs-v2.akamaized.net/kgs/do/courses/large/71bb6d26-ba00-42ef-bb30-b91e81cf089c.png"
+        }
+      }
+    ],
+    "total": 329
+  }
